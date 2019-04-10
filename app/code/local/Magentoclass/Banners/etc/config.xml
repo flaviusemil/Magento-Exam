@@ -5,4 +5,15 @@
             <version>0.1.0</version>    <!-- Version number of your module -->
         </Magentoclass_Banners>
     </modules>
+    <frontend>
+        <routers>
+            <banners>
+                <use>standard</use>
+                <args>
+                    <module>Magentoclass_Banners</module>
+                    <frontName>banners2</frontName>
+                </args>
+            </banners>
+        </routers>
+    </frontend>
 </config>
