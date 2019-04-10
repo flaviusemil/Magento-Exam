@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Magentoclass_Banners>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Magentoclass_Banners>
+    </modules>
+</config>
