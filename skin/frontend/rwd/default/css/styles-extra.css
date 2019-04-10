@@ -1,0 +1,26 @@
+.product-image-container {
+    position: relative;
+}
+.product-image {
+    position: relative;
+}
+
+.products-list li.item {
+    position: relative;
+}
+
+.featured {
+    border-radius: 15px;
+    color: white;
+    padding: 15px;
+    background: #0089d0;
+    position: absolute;
+    top: -18px;
+    left: -18px;
+    overflow: visible;
+    /* so we can see the pseudo-elements we're going to add to the anchor */
+    font-size: 18px;
+    /* font-size and line-height must be equal so we can account for the height of the banner */
+    line-height: 18px;
+    z-index: 1;
+}
