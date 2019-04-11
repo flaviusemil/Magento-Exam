@@ -46,7 +46,7 @@
     <?php $_iterator = 0; ?>
     <ol class="products-list" id="products-list">
     <?php foreach ($_productCollection as $_product): ?>
-        <?php $featured = ($_product->getData('featured2')); ?>
+        <?php $featured = ($_product->getData('featured')); ?>
         <li class="item<?php if( ++$_iterator == sizeof($_productCollection) ): ?> last<?php endif; ?>">
             <?php if($featured): ?>
                 <div class="featured">
