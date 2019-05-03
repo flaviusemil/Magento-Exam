@@ -24,3 +24,10 @@
     line-height: 18px;
     z-index: 1;
 }
+
+.products-grid .featured {
+    padding: 10px;
+    top: -7px;
+    left: -10px;
+    font-size: 15px;
+}
