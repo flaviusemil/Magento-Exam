@@ -37,6 +37,11 @@
     $_helper = $this->helper('catalog/output');
 ?>
 <div class="product-image product-image-zoom">
+    <?php if( $_product->getData('featured')): ?>
+        <div class="featured">
+            FEATURED
+        </div>
+    <?php endif; ?>
     <div class="product-image-gallery">
         <img id="image-main"
              class="gallery-image visible"

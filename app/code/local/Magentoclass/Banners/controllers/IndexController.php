@@ -9,7 +9,7 @@ class Magentoclass_Banners_IndexController extends Mage_Core_Controller_Front_Ac
         $collection->addAttributeToSelect('featured');
         $collection->addFieldToFilter('featured', true);
         $noFeatured = $collection->getSize();
-
+//Mage::config('catalog_product_view/
         echo "<h4>Number of featured products: " . $noFeatured . "</h4>";
 
     }
