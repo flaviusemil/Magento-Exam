@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sample_data>
+  <themeframework>
+    <area>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+      <layout><![CDATA[2columns-left]]></layout>
+      <is_active><![CDATA[1]]></is_active>
+      <content><![CDATA[a:11:{i:0;a:6:{s:10:"custom_css";s:16:"header_container";s:10:"inner_html";s:43:"<div class="inner_header">{{content}}</div>";s:10:"outer_html";s:46:"<div class="wrapper_header"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:14:"container_free";s:5:"items";a:1:{i:0;s:6:"header";}}i:1;a:6:{s:10:"custom_css";s:24:"menu_slideshow_container";s:10:"inner_html";s:51:"<div class="inner_menu_slideshow">{{content}}</div>";s:10:"outer_html";s:54:"<div class="wrapper_menu_slideshow"> {{content}}</div>";s:13:"display_empty";b:1;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:32:"em_area02  fixed_em_area02 alpha";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area2";}}i:1;s:5:"clear";}}i:2;a:6:{s:10:"custom_css";s:21:"breadcrumbs-container";s:10:"inner_html";s:48:"<div class="inner_breadcrumbs">{{content}}</div>";s:10:"outer_html";s:51:"<div class="wrapper_breadcrumbs"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:14:"em_breadcrumbs";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:11:"breadcrumbs";}}i:1;s:5:"clear";}}i:3;a:6:{s:10:"custom_css";s:14:"main_container";s:10:"inner_html";s:41:"<div class="inner_main">{{content}}</div>";s:10:"outer_html";s:44:"<div class="wrapper_main"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:6:{i:0;a:11:{s:6:"column";s:2:"18";s:4:"push";s:1:"6";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:11:"em_col_main";s:10:"inner_html";s:45:"<div class="em_col_content">{{content}}</div>";s:13:"display_empty";b:0;s:5:"items";a:4:{i:0;s:15:"global_messages";i:1;s:8:"em_area6";i:2;s:7:"content";i:3;s:8:"em_area7";}}i:1;a:11:{s:6:"column";s:1:"6";s:4:"push";s:0:"";s:4:"pull";s:2:"18";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:22:"em_col_left em_sidebar";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:4:{i:0;s:8:"em_area8";i:1;s:9:"em_area10";i:2;s:4:"left";i:3;s:8:"em_area9";}}i:2;s:5:"clear";i:3;a:11:{s:6:"column";s:2:"12";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:0:"";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area13";}}i:4;a:11:{s:6:"column";s:2:"12";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:0:"";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area14";}}i:5;s:5:"clear";}}i:4;a:6:{s:10:"custom_css";s:14:"extract-bottom";s:10:"inner_html";s:51:"<div class="inner-extract-bottom">{{content}}</div>";s:10:"outer_html";s:54:"<div class="wrapper-extract-bottom"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:19:"extra-bottom-blocks";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area15";}}i:1;s:5:"clear";}}i:5;a:6:{s:10:"custom_css";s:13:"bottom-banner";s:10:"inner_html";s:50:"<div class="inner-bottom-banner">{{content}}</div>";s:10:"outer_html";s:0:"";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area03";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area3";}}i:1;s:5:"clear";}}i:6;a:6:{s:10:"custom_css";s:23:"footer_brands_container";s:10:"inner_html";s:51:"<div class="inner_footer_brands"> {{content}}</div>";s:10:"outer_html";s:53:"<div class="wrapper_footer_brands"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area04";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area4";}}i:1;s:5:"clear";}}i:7;a:6:{s:10:"custom_css";s:21:"newslettler-container";s:10:"inner_html";s:48:"<div class="inner-newslettler">{{content}}</div>";s:10:"outer_html";s:51:"<div class="wrapper-newslettler"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:11:"newslettler";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area16";}}i:1;s:5:"clear";}}i:8;a:6:{s:10:"custom_css";s:20:"footer_top_container";s:10:"inner_html";s:48:"<div class="inner_footer_top"> {{content}}</div>";s:10:"outer_html";s:50:"<div class="wrapper_footer_top"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area05";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area5";}}i:1;s:5:"clear";}}i:9;a:6:{s:10:"custom_css";s:16:"footer_container";s:10:"inner_html";s:43:"<div class="inner_footer">{{content}}</div>";s:10:"outer_html";s:46:"<div class="wrapper_footer"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:0:"";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:6:"footer";}}i:1;s:5:"clear";}}i:10;a:6:{s:10:"custom_css";s:13:"end_container";s:10:"inner_html";s:40:"<div class="inner_end">{{content}}</div>";s:10:"outer_html";s:43:"<div class="wrapper_end"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:14:"container_free";s:5:"items";a:1:{i:0;s:15:"before_body_end";}}}]]></content>
+    </area>
+    <area>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+      <layout><![CDATA[1column]]></layout>
+      <is_active><![CDATA[1]]></is_active>
+      <content><![CDATA[a:11:{i:0;a:6:{s:10:"custom_css";s:16:"header_container";s:10:"inner_html";s:43:"<div class="inner_header">{{content}}</div>";s:10:"outer_html";s:46:"<div class="wrapper_header"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:14:"container_free";s:5:"items";a:1:{i:0;s:6:"header";}}i:1;a:6:{s:10:"custom_css";s:24:"menu_slideshow_container";s:10:"inner_html";s:51:"<div class="inner_menu_slideshow">{{content}}</div>";s:10:"outer_html";s:54:"<div class="wrapper_menu_slideshow"> {{content}}</div>";s:13:"display_empty";b:1;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area02";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area2";}}i:1;s:5:"clear";}}i:2;a:6:{s:10:"custom_css";s:21:"breadcrumbs-container";s:10:"inner_html";s:49:"<div class="inner_breadcrumbs"> {{content}}</div>";s:10:"outer_html";s:51:"<div class="wrapper_breadcrumbs"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:14:"em_breadcrumbs";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:11:"breadcrumbs";}}i:1;s:5:"clear";}}i:3;a:6:{s:10:"custom_css";s:14:"main_container";s:10:"inner_html";s:41:"<div class="inner_main">{{content}}</div>";s:10:"outer_html";s:44:"<div class="wrapper_main"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:4:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:11:"em_col_main";s:10:"inner_html";s:45:"<div class="em_col_content">{{content}}</div>";s:13:"display_empty";b:0;s:5:"items";a:4:{i:0;s:15:"global_messages";i:1;s:8:"em_area6";i:2;s:7:"content";i:3;s:8:"em_area7";}}i:1;a:11:{s:6:"column";s:2:"12";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:0:"";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area13";}}i:2;a:11:{s:6:"column";s:2:"12";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:0:"";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area14";}}i:3;s:5:"clear";}}i:4;a:6:{s:10:"custom_css";s:24:"extract-bottom-container";s:10:"inner_html";s:51:"<div class="inner-extract-bottom">{{content}}</div>";s:10:"outer_html";s:54:"<div class="wrapper-extract-bottom"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:19:"extra-bottom-blocks";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area15";}}i:1;s:5:"clear";}}i:5;a:6:{s:10:"custom_css";s:13:"bottom-banner";s:10:"inner_html";s:50:"<div class="inner-bottom-banner">{{content}}</div>";s:10:"outer_html";s:0:"";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area03";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area3";}}i:1;s:5:"clear";}}i:6;a:6:{s:10:"custom_css";s:23:"footer_brands_container";s:10:"inner_html";s:51:"<div class="inner_footer_brands"> {{content}}</div>";s:10:"outer_html";s:53:"<div class="wrapper_footer_brands"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area04";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area4";}}i:1;s:5:"clear";}}i:7;a:6:{s:10:"custom_css";s:21:"newslettler-container";s:10:"inner_html";s:48:"<div class="inner-newslettler">{{content}}</div>";s:10:"outer_html";s:51:"<div class="wrapper-newslettler"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:11:"newslettler";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area16";}}i:1;s:5:"clear";}}i:8;a:6:{s:10:"custom_css";s:20:"footer_top_container";s:10:"inner_html";s:48:"<div class="inner_footer_top"> {{content}}</div>";s:10:"outer_html";s:50:"<div class="wrapper_footer_top"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area05";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area5";}}i:1;s:5:"clear";}}i:9;a:6:{s:10:"custom_css";s:16:"footer_container";s:10:"inner_html";s:43:"<div class="inner_footer">{{content}}</div>";s:10:"outer_html";s:46:"<div class="wrapper_footer"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:0:"";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:6:"footer";}}i:1;s:5:"clear";}}i:10;a:6:{s:10:"custom_css";s:13:"end_container";s:10:"inner_html";s:40:"<div class="inner_end">{{content}}</div>";s:10:"outer_html";s:43:"<div class="wrapper_end"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:14:"container_free";s:5:"items";a:1:{i:0;s:15:"before_body_end";}}}]]></content>
+    </area>
+    <area>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+      <layout><![CDATA[2columns-right]]></layout>
+      <is_active><![CDATA[1]]></is_active>
+      <content><![CDATA[a:11:{i:0;a:6:{s:10:"custom_css";s:16:"header_container";s:10:"inner_html";s:43:"<div class="inner_header">{{content}}</div>";s:10:"outer_html";s:46:"<div class="wrapper_header"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:14:"container_free";s:5:"items";a:1:{i:0;s:6:"header";}}i:1;a:6:{s:10:"custom_css";s:24:"menu_slideshow_container";s:10:"inner_html";s:51:"<div class="inner_menu_slideshow">{{content}}</div>";s:10:"outer_html";s:54:"<div class="wrapper_menu_slideshow"> {{content}}</div>";s:13:"display_empty";b:1;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area02";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area2";}}i:1;s:5:"clear";}}i:2;a:6:{s:10:"custom_css";s:21:"breadcrumbs-container";s:10:"inner_html";s:49:"<div class="inner_breadcrumbs"> {{content}}</div>";s:10:"outer_html";s:51:"<div class="wrapper_breadcrumbs"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:14:"em_breadcrumbs";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:11:"breadcrumbs";}}i:1;s:5:"clear";}}i:3;a:6:{s:10:"custom_css";s:14:"main_container";s:10:"inner_html";s:41:"<div class="inner_main">{{content}}</div>";s:10:"outer_html";s:44:"<div class="wrapper_main"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:6:{i:0;a:11:{s:6:"column";s:2:"18";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:11:"em_col_main";s:10:"inner_html";s:45:"<div class="em_col_content">{{content}}</div>";s:13:"display_empty";b:0;s:5:"items";a:4:{i:0;s:15:"global_messages";i:1;s:8:"em_area6";i:2;s:7:"content";i:3;s:8:"em_area7";}}i:1;a:11:{s:6:"column";s:1:"6";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:23:"em_col_right em_sidebar";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:3:{i:0;s:9:"em_area11";i:1;s:5:"right";i:2;s:9:"em_area12";}}i:2;s:5:"clear";i:3;a:11:{s:6:"column";s:2:"12";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:0:"";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area13";}}i:4;a:11:{s:6:"column";s:2:"12";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:0:"";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area14";}}i:5;s:5:"clear";}}i:4;a:6:{s:10:"custom_css";s:14:"extract-bottom";s:10:"inner_html";s:51:"<div class="inner-extract-bottom">{{content}}</div>";s:10:"outer_html";s:54:"<div class="wrapper-extract-bottom"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:19:"extra-bottom-blocks";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area15";}}i:1;s:5:"clear";}}i:5;a:6:{s:10:"custom_css";s:13:"bottom-banner";s:10:"inner_html";s:50:"<div class="inner-bottom-banner">{{content}}</div>";s:10:"outer_html";s:0:"";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area03";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area3";}}i:1;s:5:"clear";}}i:6;a:6:{s:10:"custom_css";s:23:"footer_brands_container";s:10:"inner_html";s:51:"<div class="inner_footer_brands"> {{content}}</div>";s:10:"outer_html";s:53:"<div class="wrapper_footer_brands"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area04";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area4";}}i:1;s:5:"clear";}}i:7;a:6:{s:10:"custom_css";s:21:"newslettler-container";s:10:"inner_html";s:48:"<div class="inner-newslettler">{{content}}</div>";s:10:"outer_html";s:51:"<div class="wrapper-newslettler"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:11:"newslettler";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area16";}}i:1;s:5:"clear";}}i:8;a:6:{s:10:"custom_css";s:20:"footer_top_container";s:10:"inner_html";s:48:"<div class="inner_footer_top"> {{content}}</div>";s:10:"outer_html";s:50:"<div class="wrapper_footer_top"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area05";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area5";}}i:1;s:5:"clear";}}i:9;a:6:{s:10:"custom_css";s:16:"footer_container";s:10:"inner_html";s:43:"<div class="inner_footer">{{content}}</div>";s:10:"outer_html";s:46:"<div class="wrapper_footer"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:0:"";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:6:"footer";}}i:1;s:5:"clear";}}i:10;a:6:{s:10:"custom_css";s:13:"end_container";s:10:"inner_html";s:40:"<div class="inner_end">{{content}}</div>";s:10:"outer_html";s:43:"<div class="wrapper_end"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:14:"container_free";s:5:"items";a:1:{i:0;s:15:"before_body_end";}}}]]></content>
+    </area>
+    <area>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+      <layout><![CDATA[3columns]]></layout>
+      <is_active><![CDATA[1]]></is_active>
+      <content><![CDATA[a:11:{i:0;a:6:{s:10:"custom_css";s:16:"header_container";s:10:"inner_html";s:43:"<div class="inner_header">{{content}}</div>";s:10:"outer_html";s:46:"<div class="wrapper_header"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:14:"container_free";s:5:"items";a:1:{i:0;s:6:"header";}}i:1;a:6:{s:10:"custom_css";s:24:"menu_slideshow_container";s:10:"inner_html";s:51:"<div class="inner_menu_slideshow">{{content}}</div>";s:10:"outer_html";s:54:"<div class="wrapper_menu_slideshow"> {{content}}</div>";s:13:"display_empty";b:1;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area02";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area2";}}i:1;s:5:"clear";}}i:2;a:6:{s:10:"custom_css";s:21:"breadcrumbs-container";s:10:"inner_html";s:49:"<div class="inner_breadcrumbs"> {{content}}</div>";s:10:"outer_html";s:51:"<div class="wrapper_breadcrumbs"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:14:"em_breadcrumbs";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:11:"breadcrumbs";}}i:1;s:5:"clear";}}i:3;a:6:{s:10:"custom_css";s:14:"main_container";s:10:"inner_html";s:41:"<div class="inner_main">{{content}}</div>";s:10:"outer_html";s:44:"<div class="wrapper_main"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:7:{i:0;a:11:{s:6:"column";s:2:"12";s:4:"push";s:1:"6";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:11:"em_col_main";s:10:"inner_html";s:45:"<div class="em_col_content">{{content}}</div>";s:13:"display_empty";b:0;s:5:"items";a:4:{i:0;s:15:"global_messages";i:1;s:8:"em_area6";i:2;s:7:"content";i:3;s:8:"em_area7";}}i:1;a:11:{s:6:"column";s:1:"6";s:4:"push";s:0:"";s:4:"pull";s:2:"12";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:22:"em_col_left em_sidebar";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:4:{i:0;s:8:"em_area8";i:1;s:9:"em_area10";i:2;s:4:"left";i:3;s:8:"em_area9";}}i:2;a:11:{s:6:"column";s:1:"6";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:23:"em_col_right em_sidebar";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:3:{i:0;s:9:"em_area11";i:1;s:5:"right";i:2;s:9:"em_area12";}}i:3;s:5:"clear";i:4;a:11:{s:6:"column";s:2:"12";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:0:"";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area13";}}i:5;a:11:{s:6:"column";s:2:"12";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:0:"";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area14";}}i:6;s:5:"clear";}}i:4;a:6:{s:10:"custom_css";s:14:"extract-bottom";s:10:"inner_html";s:51:"<div class="inner-extract-bottom">{{content}}</div>";s:10:"outer_html";s:54:"<div class="wrapper-extract-bottom"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:19:"extra-bottom-blocks";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area15";}}i:1;s:5:"clear";}}i:5;a:6:{s:10:"custom_css";s:13:"bottom-banner";s:10:"inner_html";s:50:"<div class="inner-bottom-banner">{{content}}</div>";s:10:"outer_html";s:0:"";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area03";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area3";}}i:1;s:5:"clear";}}i:6;a:6:{s:10:"custom_css";s:23:"footer_brands_container";s:10:"inner_html";s:51:"<div class="inner_footer_brands"> {{content}}</div>";s:10:"outer_html";s:53:"<div class="wrapper_footer_brands"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area04";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area4";}}i:1;s:5:"clear";}}i:7;a:6:{s:10:"custom_css";s:21:"newslettler-container";s:10:"inner_html";s:48:"<div class="inner-newslettler">{{content}}</div>";s:10:"outer_html";s:51:"<div class="wrapper-newslettler"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:11:"newslettler";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:9:"em_area16";}}i:1;s:5:"clear";}}i:8;a:6:{s:10:"custom_css";s:20:"footer_top_container";s:10:"inner_html";s:48:"<div class="inner_footer_top"> {{content}}</div>";s:10:"outer_html";s:50:"<div class="wrapper_footer_top"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:9:"em_area05";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:8:"em_area5";}}i:1;s:5:"clear";}}i:9;a:6:{s:10:"custom_css";s:16:"footer_container";s:10:"inner_html";s:43:"<div class="inner_footer">{{content}}</div>";s:10:"outer_html";s:46:"<div class="wrapper_footer"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:12:"container_24";s:5:"items";a:2:{i:0;a:11:{s:6:"column";s:2:"24";s:4:"push";s:0:"";s:4:"pull";s:0:"";s:6:"prefix";s:0:"";s:6:"suffix";s:0:"";s:5:"first";b:0;s:4:"last";b:0;s:10:"custom_css";s:0:"";s:10:"inner_html";s:0:"";s:13:"display_empty";b:0;s:5:"items";a:1:{i:0;s:6:"footer";}}i:1;s:5:"clear";}}i:10;a:6:{s:10:"custom_css";s:13:"end_container";s:10:"inner_html";s:40:"<div class="inner_end">{{content}}</div>";s:10:"outer_html";s:43:"<div class="wrapper_end"> {{content}}</div>";s:13:"display_empty";b:0;s:4:"type";s:14:"container_free";s:5:"items";a:1:{i:0;s:15:"before_body_end";}}}]]></content>
+    </area>
+  </themeframework>
+  <staticblock>
+    <block id="10">
+      <title><![CDATA[EM0121 - Area 3 - Ads]]></title>
+      <identifier><![CDATA[em0121_area3_ads]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="four_ads row">
+<div class="content_info col-sm-8"><a href="#"><img class="img-responsive" src="{{skin url='images/media/ads1.png'}}" alt="" /><span class="hover_image">&nbsp; </span></a></div>
+<div class="content_info col-sm-8"><a href="#"><img class="img-responsive" src="{{skin url='images/media/ads2.png'}}" alt="" /><span class="hover_image">&nbsp; </span></a></div>
+<div class="content_info col-sm-8"><a href="#"><img class="img-responsive" src="{{skin url='images/media/ads3.png'}}" alt="" /><span class="hover_image">&nbsp; </span></a></div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="13">
+      <title><![CDATA[EM0121 - Footer - Payment]]></title>
+      <identifier><![CDATA[em0121_footer_payment]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<p class="payment_accept"><a class="brand-logo paypal" title="Paypal" href="#">Paypal</a> <a class="brand-logo express " title="American Express" href="#">American Express</a> <a class="brand-logo master" title="Master Card" href="#">MasterCard</a> <a class="brand-logo visa" title="Visa" href="#">Visa </a></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="14">
+      <title><![CDATA[EM0121 - Area 4 - Footer - Brands]]></title>
+      <identifier><![CDATA[em0121_area4_footer_brands]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="footer-brand">
+<ul>
+<li class="item"><a class="img_brand" title="wp" href="http://wpdance.com/"><img class="first" src="{{skin url='images/brands/brand_wp.png'}}" alt="wp" /><img class="last" src="{{skin url='images/brands/brand_wp_hover.png'}}" alt="wp" /></a></li>
+<li class="item"><a class="img_brand" title="extreme" href="http://www.emthemes.com/"><img class="first" src="{{skin url='images/brands/brand_ex.png'}}" alt="extreme" /><img class="last" src="{{skin url='images/brands/brand_ex_hover.png'}}" alt="extreme" /></a></li>
+<li class="item"><a class="img_brand" title="presthemes" href="http://www.prestashop.com/"><img class="first" src="{{skin url='images/brands/brand_pres.png'}}" alt="presthemes" /><img class="last" src="{{skin url='images/brands/brand_pres_hover.png'}}" alt="presthemes" /></a></li>
+<li class="item"><a class="img_brand" title="eggthemes" href="http://eggthemes.com/"><img class="first" src="{{skin url='images/brands/brand_egg.png'}}" alt="eggthemes" /><img class="last" src="{{skin url='images/brands/brand_egg_hover.png'}}" alt="eggthemes" /></a></li>
+<li class="item"><a class="img_brand" title="galathemes" href="http://galathemes.com/"><img class="first" src="{{skin url='images/brands/brand_gala.png'}}" alt="galathemes" /><img class="last" src="{{skin url='images/brands/brand_gala_hover.png'}}" alt="galathemes" /></a></li>
+<li class="item"><a class="img_brand" title="bossthemes" href="http://bossthemes.com/"><img class="first" src="{{skin url='images/brands/brand_boss.png'}}" alt="bossthemes" /><img class="last" src="{{skin url='images/brands/brand_boss_hover.png'}}" alt="bossthemes" /></a></li>
+<li class="item"><a class="img_brand" title="designshopify" href="http://designshopify.com/"><img class="first" src="{{skin url='images/brands/brand_design.png'}}" alt="designshopify" /><img class="last" src="{{skin url='images/brands/brand_design_hover.png'}}" alt="designshopify" /></a></li>
+<li class="item"><a class="img_brand" title="codespot" href="http://codespot.vn/"><img class="first" src="{{skin url='images/brands/brand_codespot.png'}}" alt="codespot" /><img class="last" src="{{skin url='images/brands/brand_codespot_hover.png'}}" alt="codespot" /></a></li>
+</ul>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="15">
+      <title><![CDATA[EM0121 - Area 5 - Footer - Link]]></title>
+      <identifier><![CDATA[em0121_area5_footer_link]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div id="footer-information" class="box link_text">
+<div class="first link_content col-sm-9">
+<div class="inner_links">
+<p class="h5">our blog</p>
+<div class="content_links">{{block type="blog/post_list_recent" name="blog.recent" template="em_blog/post/list/recent_footer.phtml"}}</div>
+</div>
+</div>
+<div class="link_content col-sm-5">
+<div class="inner_links">
+<p class="h5">Customer Service</p>
+<div class="content_links">
+<ul class="list-unstyled">
+<li><a href="{{store direct_url=''}}about-magento-demo-store">About Us</a></li>
+<li><a href="{{store direct_url=''}}contacts">Contact Us</a></li>
+<li><a href="{{store direct_url=''}}customer-service">Customer Service</a></li>
+<li><a href="{{store direct_url=''}}privacy-policy-cookie-restriction-mode">Privacy Policy</a></li>
+<li><a href="{{store direct_url=''}}sales/guest/form/">Orders and Returns</a></li>
+<li><a href="{{store direct_url=''}}blog">Shipping Information</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="link_content col-sm-5">
+<div class="inner_links">
+<p class="h5">Extra</p>
+<div class="content_links">
+<ul class="list-unstyled">
+<li><a href="{{store direct_url="catalog/seo_sitemap/category/"}}">Site Map</a></li>
+<li><a href="{{store direct_url="catalogsearch/term/popular/"}}">Search Terms</a></li>
+<li><a href="{{store direct_url="catalogsearch/advanced/"}}">Advanced Search</a></li>
+<li><a href="#">Terms &amp; Conditions</a></li>
+<li><a href="#">Testimonial</a></li>
+<li><a href="#">Lorem ispum dolor</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="omega link_content col-sm-5">
+<div class="inner_links">
+<p class="h5">Contact Us</p>
+<div class="content_links">
+<p class="link_address"><span class="icon address">1</span>{{config path="general/store_information/address"}}</p>
+<p class="link_address"><span class="icon email">2</span>{{config path="trans_email/ident_general/email"}}</p>
+<p class="link_address"><span class="icon fone">3</span>{{config path="general/store_information/phone"}}</p>
+<ul class="list-inline link_connect">
+<li class="first"><a class="show icon facebook" title="" href="#" data-toggle="tooltip" data-placement="bottom" data-original-title="Facebook"><span>Facebook</span></a></li>
+<li><a class="show icon pinterest" href="#" data-toggle="tooltip" data-placement="bottom" data-original-title="Pinterest"><span>Pinterest</span></a></li>
+<li><a class="show icon twitter" href="#" data-toggle="tooltip" data-placement="bottom" data-original-title="Twitter"><span>Twitter</span></a></li>
+<li><a class="show icon google" href="#" data-toggle="tooltip" data-placement="bottom" data-original-title="Google"><span>Google</span></a></li>
+<li><a class="show icon rss" href="#" data-toggle="tooltip" data-placement="bottom" data-original-title="Rss"><span>Rss</span></a></li>
+<li class="last"><a class="show icon vimeo" href="#" data-toggle="tooltip" data-placement="bottom" data-original-title="Vimeo"><span>Vimeo</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="16">
+      <title><![CDATA[EM0121 - Area Sidebar- Banner]]></title>
+      <identifier><![CDATA[em0121_area_sidebar_banner]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="block block-banner">
+<p><a title="" href="#"><img class="img-responsive" src="{{skin url='images/media/left_banner_01.jpg'}}" alt="" /></a></p>
+<p><a title="" href="#"><img class="img-responsive" src="{{skin url='images/media/left_banner_02.jpg'}}" alt="" /></a></p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="17">
+      <title><![CDATA[EM0121 - Left - Acount Protected]]></title>
+      <identifier><![CDATA[em0121_left_account_protected]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="block block-account">
+<div class="block-title"><strong><span>Account Protection</span></strong></div>
+<div class="block-content">
+<p class="block-subtitle">Your account is being Protected</p>
+<p><a title="account protected" href="#"><img src="{{skin url='images/media/left_account_protected.png'}}" alt="" /></a></p>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="19">
+      <title><![CDATA[EM0121 - Product Collateral Sample]]></title>
+      <identifier><![CDATA[em0121_product_collateral_sample]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box3">
+<p>Sample Block Here ...</p>
+<p>A sample of additional collateral tabs that you can insert as a widget in static the backend.</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="20">
+      <title><![CDATA[EM0121 - Area 07 - Sample Block]]></title>
+      <identifier><![CDATA[em0121_area07_sample_block]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box3">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position EM Area 07. You can add your own content by insert widget into position EM Area 07</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="21">
+      <title><![CDATA[EM0121 - Area 06 - Sample Block]]></title>
+      <identifier><![CDATA[em0121_area06_sample_block]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box3">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position EM Area 06. You can add your own content by insert widget into position EM Area 06</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="22">
+      <title><![CDATA[EM0121 - Sample Block - Alert Url]]></title>
+      <identifier><![CDATA[em0121_sample_block_alert_us]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box3">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position Alert Url. You can add your own content by insert widget into position Alert Url</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="23">
+      <title><![CDATA[EM0121 - Sample Block - Extra Hint]]></title>
+      <identifier><![CDATA[em0121_sample_block_extra_hint]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box3">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position Extra Hint. You can add your own content by insert widget into position Extra Hint</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="24">
+      <title><![CDATA[EM0121 - Header Top Ads]]></title>
+      <identifier><![CDATA[em0121_header_top_ads]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<p><span class="icon phone">&nbsp;</span><span>support online: </span><span class="number">{{config path="general/store_information/phone"}}</span></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="28">
+      <title><![CDATA[EM0121 - Area 08 - Sample Block]]></title>
+      <identifier><![CDATA[em0121_area08_sample_block]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box3">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position EM Area 08. You can add your own content by insert widget into position EM Area 08</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="29">
+      <title><![CDATA[EM0121 - Area 09 - Sample Block]]></title>
+      <identifier><![CDATA[em0121_area09_sample_block]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box3">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position EM Area 09. You can add your own content by insert widget into position EM Area 09</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="30">
+      <title><![CDATA[EM0121 - Area 11 - Sample Block]]></title>
+      <identifier><![CDATA[em0121_area11_sample_block]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box3">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position EM Area 11. You can add your own content by insert widget into position EM Area 11</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="31">
+      <title><![CDATA[EM0121 - Area 12 - Sample Block]]></title>
+      <identifier><![CDATA[em0121_area12_sample_block]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="box3">
+<p>Sample Block Here ...</p>
+<p>This is a sample content in position EM Area 12. You can add your own content by insert widget into position EM Area 12</p>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="46">
+      <title><![CDATA[EM0121 - Area Main - Banner]]></title>
+      <identifier><![CDATA[em0121_areamain_banner]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="main-banner row">
+<div class="col-sm-12 first"><a title="" href="#"><img class="img-responsive" src="{{skin url='images/media/areamain_banner1.png'}}" alt="sample-banner" /></a></div>
+<div class="col-sm-12 last"><a title="" href="#"><img class="img-responsive" src="{{skin url='images/media/areamain_banner2.png'}}" alt="sample-banner" /></a></div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="47">
+      <title><![CDATA[EM0121 - Area 15 - Extra Bottom Blocks]]></title>
+      <identifier><![CDATA[em0121_area15_extract_bottom_blocks]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="extra-blocks row">
+<div class="col-sm-6 item first"><a title="" href="#"> <img class="img-responsive first" src="{{skin url='images/media/extra-icon1.png'}}" alt="sample-banner" /> <img class="img-responsive last" src="{{skin url='images/media/extra-icon1-hover.png'}}" alt="sample-banner" /> </a> <span class="title">RETURN &amp; EXCHANGE</span>
+<p>Immunize giving global health social challenges inspire breakthroughs social good carbon rights evolution.</p>
+</div>
+<div class="col-sm-6 item"><a title="" href="#"> <img class="img-responsive first" src="{{skin url='images/media/extra-icon2.png'}}" alt="sample-banner" /> <img class="img-responsive last" src="{{skin url='images/media/extra-icon2-hover.png'}}" alt="sample-banner" /></a> <span class="title">CUSTOMER SERVICE</span>
+<p>Globalization agriculture turmoil, human rights community legal aid; engage plumpy'nut cross-cultural.</p>
+</div>
+<div class="col-sm-6 item"><a title="" href="#"> <img class="img-responsive first" src="{{skin url='images/media/extra-icon3.png'}}" alt="sample-banner" /> <img class="img-responsive last" src="{{skin url='images/media/extra-icon3-hover.png'}}" alt="sample-banner" /> </a> <span class="title">FREE SHIPPING</span>
+<p>Refugee save lives; lifting people up partner Gandhi. Informal economies, committed affiliate fluctuation life-saving.</p>
+</div>
+<div class="col-sm-6 item last"><a title="" href="#"> <img class="img-responsive first" src="{{skin url='images/media/extra-icon4.png'}}" alt="sample-banner" /> <img class="img-responsive last" src="{{skin url='images/media/extra-icon4-hover.png'}}" alt="sample-banner" /> </a> <span class="title">gift coupon</span>
+<p>Transform micro-finance public institutions expanding community ownership emergency response storytelling.</p>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="48">
+      <title><![CDATA[EM0121 - Area 16 - Newslettler]]></title>
+      <identifier><![CDATA[em0121_area16_newslettler]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="newsletter_footer">
+<div class="newsletter-content">
+<h5 class="newsletter-title">newsletter</h5>
+{{block type="newsletter/subscribe" name="left.newsletter" template="newsletter/subscribe.phtml"}}</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="49">
+      <title><![CDATA[Footer Links]]></title>
+      <identifier><![CDATA[em0121_footer_links]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<ul>
+<li><a href="{{store direct_url="about-magento-demo-store"}}">About Us</a></li>
+<li><a href="{{store direct_url="customer-service"}}">Customer Service</a></li>
+<li class="last privacy"><a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy</a></li>
+</ul>
+<ul class="links">
+<li class="first"><a title="Contact Us" href="{{store direct_url="contacts"}}">Contact Us</a></li>
+<li><a title="Site Map" href="{{store direct_url="catalog/seo_sitemap/category"}}">Site Map</a></li>
+<li><a title="Search Terms" href="{{store direct_url="catalogsearch/term/popular"}}">Search Terms</a></li>
+<li><a title="Advanced Search" href="{{store direct_url="catalogsearch/advanced"}}">Advanced Search</a></li>
+<li class=" last"><a title="Orders and Returns" href="{{store direct_url="sales/guest/form"}}">Orders and Returns</a></li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+    <block id="50">
+      <title><![CDATA[EM0121 - Area Sidebar - Bestseller]]></title>
+      <identifier><![CDATA[em0121_area_sidebar_bestseller]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="block block-bestseller">{{widget type="bestsellerproducts/list" limit_count="2" frontend_title="Best Seller" thumbnail_width="110" thumbnail_height="138" show_product_name="true" show_thumbnail="true" show_description="false" show_price="true" show_reviews="false" show_addtocart="false" show_addto="false" show_label="false" choose_template="em_bestseller_products/bestseller_list.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </block>
+  </staticblock>
+  <cmspage>
+    <page id="7">
+      <title><![CDATA[EM0121 TitanyShop Magento Theme - Homepage]]></title>
+      <identifier><![CDATA[em0121_home]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<p>&nbsp;</p>
+<!--Empty-->]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <root_template><![CDATA[one_column]]></root_template>
+      <meta_keywords><![CDATA[]]></meta_keywords>
+      <meta_description><![CDATA[]]></meta_description>
+      <content_heading><![CDATA[]]></content_heading>
+      <sort_order><![CDATA[0]]></sort_order>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <custom_theme><![CDATA[]]></custom_theme>
+      <custom_root_template><![CDATA[]]></custom_root_template>
+      <custom_layout_update_xml><![CDATA[]]></custom_layout_update_xml>
+      <custom_theme_from><![CDATA[]]></custom_theme_from>
+      <custom_theme_to><![CDATA[]]></custom_theme_to>
+    </page>
+    <page id="8">
+      <title><![CDATA[EM0121 TitanyShop Typography]]></title>
+      <identifier><![CDATA[em0121_typography]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<h2>General Elements</h2>
+<h1>Heading 1</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+<h4>Heading 4</h4>
+<h5>Heading 5</h5>
+<ul>
+<li>Bullet List 1</li>
+<ul>
+<li>Bullet List 1.1</li>
+<li>Bullet List 1.2</li>
+<li>Bullet List 1.3</li>
+<li>Bullet List 1.4</li>
+</ul>
+<li>Bullet List 2</li>
+<li>Bullet List 3</li>
+<li>Bullet List 4</li>
+</ul>
+<ol>
+<li>Number List 1</li>
+<ol>
+<li>Number List 1.1</li>
+<li>Number List 1.2</li>
+<li>Number List 1.3</li>
+<li>Number List 1.4</li>
+</ol>
+<li>Number List 2</li>
+<li>Number List 3</li>
+<li>Number List 4</li>
+</ol><dl><dt>Definition title dt</dt><dd>Defination description dd</dd><dt>Definition title dt</dt><dd>Defination description dd</dd></dl>
+<p><code>Code tag:&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</code></p>
+<blockquote>
+<p>block quote&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</blockquote>
+<div class="box f-left">element with class <strong>.f-left</strong></div>
+<div class="box f-right">element with class <strong>.f-right</strong></div>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&nbsp;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<h2>Tables</h2>
+<p>Table with class <strong>.data-table</strong></p>
+<table class="data-table" style="width: 100%; display: inline-table;" border="0">
+<thead>
+<tr><th>THEAD TH</th><th>THEAD TH</th><th>THEAD TH</th><th>THEAD TH</th><th>THEAD TH</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+</tr>
+<tr>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+</tr>
+<tr>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+<td>TBODY TD</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Custom CSS Classes</h2>
+<p class="small">tag <strong>small</strong> and class <strong>.small</strong></p>
+<p class="underline">element with class <strong>.underline</strong></p>
+<p><strong>ul.none</strong> and <strong>ol.none</strong>:</p>
+<ul class="none">
+<li>Bullet List 1</li>
+<ul>
+<li>Bullet List 1.1</li>
+<li>Bullet List 1.2</li>
+<li>Bullet List 1.3</li>
+<li>Bullet List 1.4</li>
+</ul>
+<li>Bullet List 2</li>
+<li>Bullet List 3</li>
+<li>Bullet List 4</li>
+</ul>
+<p><strong>ul.hoz</strong> and <strong>ol.hoz</strong>:</p>
+<ul class="hoz">
+<li>Bullet List 1</li>
+<li>Bullet List 2</li>
+<li>Bullet List 3</li>
+<li>Bullet List 4</li>
+</ul>
+<div class="box">
+<p>paragraph with class <strong>.box</strong>:</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</div>
+<p class="bottom">Paragraph with class <strong>.bottom</strong> always has margin-bottom = 0.</p>
+<p>Add class <strong>.hide-lte2</strong> to hide element when screen's width less than 1280px.</p>
+<p class="box hide-lte2">This block will disappear when resize window less than 1280px</p>
+<p>Add class <strong>.hide-lte1</strong> to hide element when screen's width less than 980px.</p>
+<p class="box hide-lte1">This block will disappear when resize window less than 980px</p>
+<p>Add class <strong>.hide-lte0</strong> to hide element when screen's width less than 760px.</p>
+<p class="box hide-lte0">This block will disappear when resize window less than 760px</p>
+<p>&nbsp;</p>
+<h2>Icons</h2>
+<table class="data-table" style="display: inline-table;" border="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<p>.icon.search</p>
+<p><span class="icon search">span.icon.search</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.my_account</p>
+<p><span class="icon facebook">span.icon.my_account</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.log_in</p>
+<p><span class="icon pinterest">span.icon.log_in</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.register</p>
+<p><span class="icon register">span.icon.register</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.phone</p>
+<p><span class="icon phone">span.icon.phone</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.address</p>
+<p><span class="icon address">span.icon.address</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.email</p>
+<p><span class="icon email">span.icon.email</span></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<p>.icon.facebook</p>
+<p><span class="icon facebook">span.icon.facebook</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.pinterest</p>
+<p><span class="icon pinterest">span.icon.pinterest</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.twitter</p>
+<p><span class="icon twitter">span.icon.twitter</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.google</p>
+<p><span class="icon google">span.icon.google</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.rss</p>
+<p><span class="icon rss">span.icon.rss</span></p>
+</td>
+<td align="center" valign="top">
+<p>.icon.vimeo</p>
+<p><span class="icon vimeo">span.icon.vimeo</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Logo</h2>
+<table class="data-table" style="display: inline-table;" border="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<p>.brand-logo.visa</p>
+<p><span class="brand-logo visa">span.brand-logo.visa</span></p>
+</td>
+<td align="center" valign="top">
+<p>.brand-logo.paypal</p>
+<p><span class="brand-logo paypal">span.brand-logo.paypal</span></p>
+</td>
+<td align="center" valign="top">
+<p>.brand-logo.express</p>
+<p><span class="brand-logo express">span.brand-logo.express</span></p>
+</td>
+<td align="center" valign="top">
+<p>.brand-logo.master</p>
+<p><span class="brand-logo master">span.brand-logo.master</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Label</h2>
+<table class="data-table" style="display: inline-table;" border="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<p>.label.new</p>
+<ul style="padding-left: 0; margin: 0;">
+<li style="position: relative; list-style: none; height: 70px;"><span class="productlabels_icons"><span class="label new"><span>New</span></span></span></li>
+</ul>
+</td>
+<td align="center" valign="top">
+<p>.label.hot</p>
+<ul style="padding-left: 0; margin: 0;">
+<li style="position: relative; list-style: none; height: 70px;"><span class="productlabels_icons"><span class="label hot"><span>Best</span></span></span></li>
+</ul>
+</td>
+<td align="center" valign="top">
+<p>.label.special</p>
+<ul style="padding-left: 0; margin: 0;">
+<li style="position: relative; list-style: none; height: 70px;"><span class="productlabels_icons"><span class="label special"><span>Sale</span></span></span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>image with class <strong>.img-responsive</strong>:</p>
+<p><img class="img-responsive" title="image with class .img-responsive" src="{{media url="wysiwyg/category.jpg"}}" alt="image with class .img-responsive" /></p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <root_template><![CDATA[one_column]]></root_template>
+      <meta_keywords><![CDATA[]]></meta_keywords>
+      <meta_description><![CDATA[]]></meta_description>
+      <content_heading><![CDATA[]]></content_heading>
+      <sort_order><![CDATA[0]]></sort_order>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <custom_theme><![CDATA[]]></custom_theme>
+      <custom_root_template><![CDATA[]]></custom_root_template>
+      <custom_layout_update_xml><![CDATA[]]></custom_layout_update_xml>
+      <custom_theme_from><![CDATA[]]></custom_theme_from>
+      <custom_theme_to><![CDATA[]]></custom_theme_to>
+    </page>
+    <page id="9">
+      <title><![CDATA[EM0121 TitanyShop Widgets]]></title>
+      <identifier><![CDATA[em0121_widgets]]></identifier>
+      <store_id><![CDATA[a:1:{i:0;s:1:"0";}]]></store_id>
+      <content><![CDATA[<div class="row">
+<h2>Demo EM Slideshow Widget</h2>
+<div class="col-sm-24">{{widget type="slideshow2/slideshow2" slideshow="1"}}</div>
+<div class="clear">&nbsp;</div>
+<hr /></div>
+<div class="row">
+<h2>Demo EM Featured Products Widget</h2>
+<div class="col-sm-12 first">
+<h3>Grid View</h3>
+<p>{{widget type="dynamicproducts/dynamicproducts" order_by="name asc" featured_choose="em_featured" limit_count="4" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_featured_products/featured_grid.phtml"}}</p>
+</div>
+<div class="col-sm-12 last">
+<h3>Grid View with column count = 2</h3>
+<p>{{widget type="dynamicproducts/dynamicproducts" order_by="name asc" featured_choose="em_featured" limit_count="4" column_count="2" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_featured_products/featured_grid.phtml"}}</p>
+</div>
+<div class="clear">&nbsp;</div>
+<hr /></div>
+<div class="row">
+<div class="col-sm-12 first">
+<h3>List View</h3>
+<p>{{widget type="dynamicproducts/dynamicproducts" order_by="name asc" featured_choose="em_featured" limit_count="4" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_featured_products/featured_list.phtml"}}</p>
+</div>
+<div class="col-sm-12 last">
+<h3>List View with column count = 2</h3>
+<p>{{widget type="dynamicproducts/dynamicproducts" featured_choose="em_featured" limit_count="4" column_count="2" order_by="name asc" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_featured_products/featured_list.phtml"}}</p>
+</div>
+<div class="clear">&nbsp;</div>
+<hr /></div>
+<div class="row">
+<h2>Demo EM Bestseller Products Widget</h2>
+<div class="col-sm-12 first">
+<h3>Grid View</h3>
+<p>{{widget type="bestsellerproducts/list" limit_count="4" frontend_title="Bestseller Products" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_bestseller_products/bestseller_grid.phtml"}}</p>
+</div>
+<div class="col-sm-12 last">
+<h3>List View</h3>
+<p>{{widget type="bestsellerproducts/list" limit_count="4" frontend_title="Bestseller Products" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_bestseller_products/bestseller_list.phtml"}}</p>
+</div>
+<div class="clear">&nbsp;</div>
+<hr /></div>
+<div class="row">
+<h2>Demo EM New Products Widget</h2>
+<div class="col-sm-12 first">
+<h3>Grid View</h3>
+<p>{{widget type="newproducts/list" limit_count="4" order_by="name asc" frontend_title="New Products" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_new_products/new_grid.phtml"}}</p>
+</div>
+<div class="col-sm-12 last">
+<h3>List View</h3>
+<p>{{widget type="newproducts/list" limit_count="4" order_by="name asc" frontend_title="New Products" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_new_products/new_list.phtml"}}</p>
+</div>
+<div class="clear">&nbsp;</div>
+<hr /></div>
+<div class="row">
+<h2>Demo EM Sale Products Widget</h2>
+<div class="col-sm-12 first">
+<h3>Grid View</h3>
+<p>{{widget type="saleproducts/list" order_by="name asc" limit_count="4" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_sale_products/sale_grid.phtml"}}</p>
+</div>
+<div class="col-sm-12 last">
+<h3>List View</h3>
+<p>{{widget type="saleproducts/list" order_by="name asc" limit_count="4" thumbnail_width="150" thumbnail_height="150" show_product_name="true" show_thumbnail="true" show_description="true" show_price="true" show_reviews="true" show_addtocart="true" show_addto="true" show_label="true" choose_template="em_sale_products/sale_list.phtml"}}</p>
+</div>
+<div class="clear">&nbsp;</div>
+<hr /></div>
+<div class="row">
+<h2>Demo EM Slider Widget</h2>
+<div class="col-sm-6 first">
+<h3>Vertical Sliding</h3>
+<div>{{widget type="sliderwidget/slide" instance="47" direction="1" container=".products-grid" slider_height="370" items_per_slide="1"}}</div>
+</div>
+<div class="col-sm-18 last">
+<h3>Horizontal Sliding</h3>
+<div>{{widget type="sliderwidget/slide" instance="56" container=".products-grid" items_per_slide="1"}}</div>
+</div>
+<hr /></div>
+<div class="row">
+<h2>Demo EM Tabs Widget</h2>
+<div class="col-sm-24">{{widget type="tabs/group" title_1="YToxMzp7aTowO3M6NToiVGFiIDEiO2k6MTtzOjA6IiI7aTo4O3M6MDoiIjtpOjk7czowOiIiO2k6MTA7czowOiIiO2k6MTE7czowOiIiO2k6MTI7czowOiIiO2k6MTM7czowOiIiO2k6MTQ7czowOiIiO2k6MTU7czowOiIiO2k6MTY7czowOiIiO2k6MztzOjA6IiI7aToyO3M6MDoiIjt9" instance_1="57" title_2="YToxMzp7aTowO3M6NToiVGFiIDIiO2k6MTtzOjA6IiI7aTo4O3M6MDoiIjtpOjk7czowOiIiO2k6MTA7czowOiIiO2k6MTE7czowOiIiO2k6MTI7czowOiIiO2k6MTM7czowOiIiO2k6MTQ7czowOiIiO2k6MTU7czowOiIiO2k6MTY7czowOiIiO2k6MztzOjA6IiI7aToyO3M6MDoiIjt9" block_2="20" title_3="YToxMzp7aTowO3M6NToiVGFiIDMiO2k6MTtzOjA6IiI7aTo4O3M6MDoiIjtpOjk7czowOiIiO2k6MTA7czowOiIiO2k6MTE7czowOiIiO2k6MTI7czowOiIiO2k6MTM7czowOiIiO2k6MTQ7czowOiIiO2k6MTU7czowOiIiO2k6MTY7czowOiIiO2k6MztzOjA6IiI7aToyO3M6MDoiIjt9" instance_3="36" template="emtabs/group.phtml"}}</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+      <root_template><![CDATA[one_column]]></root_template>
+      <meta_keywords><![CDATA[]]></meta_keywords>
+      <meta_description><![CDATA[]]></meta_description>
+      <content_heading><![CDATA[]]></content_heading>
+      <sort_order><![CDATA[0]]></sort_order>
+      <layout_update_xml><![CDATA[]]></layout_update_xml>
+      <custom_theme><![CDATA[]]></custom_theme>
+      <custom_root_template><![CDATA[]]></custom_root_template>
+      <custom_layout_update_xml><![CDATA[]]></custom_layout_update_xml>
+      <custom_theme_from><![CDATA[]]></custom_theme_from>
+      <custom_theme_to><![CDATA[]]></custom_theme_to>
+    </page>
+  </cmspage>
+  <megamenu>
+    <menu id="1">
+      <name><![CDATA[Sample Horizontal Menu]]></name>
+      <identifier><![CDATA[autoupdate_1_sample_horizontal_menu]]></identifier>
+      <description><![CDATA[Coming soon]]></description>
+      <type><![CDATA[0]]></type>
+      <status><![CDATA[1]]></status>
+      <content><![CDATA[[{"type":"link","label":"First Link Item","sublabel":"","url":"","target":"","css_class":"","container_css":"","depth":"0"},{"type":"text","text":"e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249Imhvcml6b250YWwifX0=","css_class":"","container_css":"","depth":"0"},{"type":"link","label":"1 Column","sublabel":"","url":"{{store direct_url=''}}furniture.html","target":"","css_class":"dd-menu-link","container_css":"","depth":"0"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"1"},{"type":"link","label":"Link 1.1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"2"},{"type":"link","label":"Link 1.2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"2"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"1"},{"type":"link","label":"Link 3","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"1"},{"type":"link","label":"2 Columns","sublabel":"","url":"{{store direct_url=''}}electronics.html","target":"","css_class":"","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu menu_col10","container_css":"","depth":"1"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-12","container_css":"","depth":"2"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"text","text":"VGhpcyBpcyBzYW1wbGUgY29udGVudCBvZiAiVGV4dCIgbWVudSBpdGVtLiBZb3UgY2FuIGVudGVyIHlvdXIgb3duIHRleHQgaGVyZS4gSXQgc3VwcG9ydHMgPHN0cm9uZz5XWVNJV1lHIEVkaXRvcjwvc3Ryb25nPiBhcyB3ZWxsIGFzIDxlbT5tYWdlbnRvIGRpcmVjdGl2ZTwvZW0+IChibG9jaywgd2lkZ2V0Li4uKQo=","css_class":"","container_css":"","depth":"3"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-12","container_css":"","depth":"2"},{"type":"text","text":"VGhpcyBpcyBzYW1wbGUgY29udGVudCBvZiAiVGV4dCIgbWVudSBpdGVtLiBZb3UgY2FuIGVudGVyIHlvdXIgb3duIHRleHQgaGVyZS4gSXQgc3VwcG9ydHMgPHN0cm9uZz5XWVNJV1lHIEVkaXRvcjwvc3Ryb25nPiBhcyB3ZWxsIGFzIDxlbT5tYWdlbnRvIGRpcmVjdGl2ZTwvZW0+IChibG9jaywgd2lkZ2V0Li4uKQ==","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"3 Columns","sublabel":"","url":"{{store direct_url=''}}apparel.html","target":"","css_class":"","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu menu_col16 nav-right","container_css":"","depth":"1"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8","container_css":"","depth":"2"},{"type":"text","text":"PGgzPkZpcnN0IENvbHVtbiBjb250YWlucyBvbmx5IGl0ZW0gIlRleHQiPC9oMz4KVGhpcyBpcyBzYW1wbGUgY29udGVudCBvZiAiVGV4dCIgbWVudSBpdGVtLiBZb3UgY2FuIGVudGVyIHlvdXIgb3duIHRleHQgaGVyZS4gSXQgc3VwcG9ydHMgPHN0cm9uZz5XWVNJV1lHIEVkaXRvcjwvc3Ryb25nPiBhcyB3ZWxsIGFzIDxlbT5tYWdlbnRvIGRpcmVjdGl2ZTwvZW0+IChibG9jaywgd2lkZ2V0Li4uKQ==","css_class":"","container_css":"","depth":"3"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8","container_css":"","depth":"2"},{"type":"text","text":"PGgzPlNlY29uZCBDb2x1bW48L2gzPgo8cD5UaGlzIGlzIHNhbXBsZSBjb250ZW50IG9mICJUZXh0IiBtZW51IGl0ZW0uIFlvdSBjYW4gZW50ZXIgeW91ciBvd24gdGV4dCBoZXJlLiBJdCBzdXBwb3J0cyA8c3Ryb25nPldZU0lXWUcgRWRpdG9yPC9zdHJvbmc+IGFzIHdlbGwgYXMgPGVtPm1hZ2VudG8gZGlyZWN0aXZlPC9lbT4gKGJsb2NrLCB3aWRnZXQuLi4pPC9wPgo8cD5CZWxvdyBpcyAyIDxzdHJvbmc+TGluazwvc3Ryb25nPiBpdGVtczo8L3A+","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8","container_css":"","depth":"2"},{"type":"text","text":"PGgzPjNyZCBDb2x1bW48L2gzPgo8cD5CZWxvdyBpcyA8Y29kZT57IHt3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn0gfTwvY29kZT48L3A+CjxwPnt7d2lkZ2V0IHR5cGU9Im1lZ2FtZW51cHJvL2NhdGFsb2duYXZpZ2F0aW9uIiBjYXRlZ29yeV9pZD0iY2F0ZWdvcnkvMyIgZGlyZWN0aW9uPSJ2ZXJ0aWNhbCJ9fTwvcD4KPHA+QmVsb3cgaXMgc3RhdGljIGxpbmtzOjwvcD4=","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Mixed Columns","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu menu_col16 nav-right","container_css":"","depth":"1"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"","container_css":"","depth":"2"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSAyNTBweDwvc3Ryb25nPjwvcD4KCjxwPlRoaXMgaXMgc2FtcGxlIGNvbnRlbnQgb2YgIlRleHQiIG1lbnUgaXRlbS4gWW91IGNhbiBlbnRlciB5b3VyIG93biB0ZXh0IGhlcmUuIEl0IHN1cHBvcnRzIDxzdHJvbmc+V1lTSVdZRyBFZGl0b3I8L3N0cm9uZz4gYXMgd2VsbCBhcyA8ZW0+bWFnZW50byBkaXJlY3RpdmU8L2VtPiAoYmxvY2ssIHdpZGdldC4uLik8L3A+CjxwPkJlbG93IGlzIDIgPHN0cm9uZz5MaW5rPC9zdHJvbmc+IGl0ZW1zOjwvcD4K","css_class":"","container_css":"","depth":"4"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"4"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"4"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSAyNTBweDwvc3Ryb25nPjwvcD4KCjxwPkJlbG93IGlzIDxjb2RlPnsge3dpZGdldCB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgY2F0ZWdvcnlfaWQ9ImNhdGVnb3J5LzMiIGRpcmVjdGlvbj0idmVydGljYWwifSB9PC9jb2RlPjwvcD4Ke3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn19","css_class":"","container_css":"","depth":"4"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSAyNTBweDwvc3Ryb25nPjwvcD4KCjxwPlRoaXMgaXMgc2FtcGxlIGNvbnRlbnQgb2YgIlRleHQiIG1lbnUgaXRlbS4gWW91IGNhbiBlbnRlciB5b3VyIG93biB0ZXh0IGhlcmUuIEl0IHN1cHBvcnRzIDxzdHJvbmc+V1lTSVdZRyBFZGl0b3I8L3N0cm9uZz4gYXMgd2VsbCBhcyA8ZW0+bWFnZW50byBkaXJlY3RpdmU8L2VtPiAoYmxvY2ssIHdpZGdldC4uLik8L3A+","css_class":"","container_css":"","depth":"4"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"","container_css":"","depth":"2"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-12","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSA0MDBweDwvc3Ryb25nPjwvcD4KCjxwPlRoaXMgaXMgc2FtcGxlIGNvbnRlbnQgb2YgIlRleHQiIG1lbnUgaXRlbS4gWW91IGNhbiBlbnRlciB5b3VyIG93biB0ZXh0IGhlcmUuIEl0IHN1cHBvcnRzIDxzdHJvbmc+V1lTSVdZRyBFZGl0b3I8L3N0cm9uZz4gYXMgd2VsbCBhcyA8ZW0+bWFnZW50byBkaXJlY3RpdmU8L2VtPiAoYmxvY2ssIHdpZGdldC4uLik8L3A+","css_class":"","container_css":"","depth":"4"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-12","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSAzNTBweDwvc3Ryb25nPjwvcD4KCjxwPkJlbG93IGlzIDxjb2RlPnsge3dpZGdldCB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgY2F0ZWdvcnlfaWQ9ImNhdGVnb3J5LzMiIGRpcmVjdGlvbj0idmVydGljYWwifSB9PC9jb2RlPjwvcD4Ke3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn19","css_class":"","container_css":"","depth":"4"},{"type":"link","label":"Categories","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"0"},{"type":"vbox","width":"","height":"","spacing":"20","css_class":"col-menu col-md-24 menu_col6 fix-top","container_css":"","depth":"1"},{"type":"text","text":"PHA+VXNlIDxzdHJvbmc+Um93cyBMYXlvdXQ8L3N0cm9uZz4gYXMgcGFyZW50IDxzdHJvbmdUZXh0PC9zdHJvbmc+IGZvciBwdXJwb3NlIG9mIHNldHRpbmcgPGVtPnNwYWNpbmc9MTA8L2VtPjwvcD4KCjxwPkNhdGVnb3JpZXMnIENvbnRhaW5lciBDU1M6IDxlbT53aWR0aDozMDBweDwvZW0+PC9wPgoKPHA+PGNvZGU+eyB7d2lkZ2V0IHR5cGU9Im1lZ2FtZW51cHJvL2NhdGFsb2duYXZpZ2F0aW9uIiBjYXRlZ29yeV9pZD0iY2F0ZWdvcnkvMyIgZGlyZWN0aW9uPSJ2ZXJ0aWNhbCJ9IH08L2NvZGU+PC9wPgoKPHA+PHN0cm9uZz5UZXh0PC9zdHJvbmc+IGl0ZW0gY29udGFpbnMgdGhlIGJsb2NrIDxlbT5tZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbjwvZW0+IGFscmVhZHkgaGFzIG1hcmdpbiBzbyB3ZSBwbGFjZSBpdCBvdXRzaWRlIHRoZSA8c3Ryb25nPlJvd3MgTGF5b3V0PC9zdHJvbmc+PC9wPg==","css_class":"","container_css":"","depth":"2"},{"type":"text","text":"e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn19","css_class":"menu-link","container_css":"","depth":"2"}]]]></content>
+      <css_class><![CDATA[]]></css_class>
+    </menu>
+    <menu id="2">
+      <name><![CDATA[Sample Vertical Menu Left]]></name>
+      <identifier><![CDATA[autoupdate_2_sample_vertical_menu_left]]></identifier>
+      <description><![CDATA[Coming soon]]></description>
+      <type><![CDATA[1]]></type>
+      <status><![CDATA[1]]></status>
+      <content><![CDATA[[{"type":"link","label":"Clothes","sublabel":"","url":"{{store direct_url=''}}furniture.html","target":"","css_class":"icon1","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu menu_col4","container_css":"","depth":"1"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-24","container_css":"","depth":"2"},{"type":"text","text":"e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8xMCIgZGlyZWN0aW9uPSJ2ZXJ0aWNhbCJ9fQ==","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Shoes","sublabel":"","url":"{{store direct_url=''}}electronics.html","target":"","css_class":"icon2","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu menu_col4","container_css":"","depth":"1"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-24","container_css":"","depth":"2"},{"type":"text","text":"e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8xMyIgZGlyZWN0aW9uPSJ2ZXJ0aWNhbCJ9fQ==","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Accessories","sublabel":"","url":"","target":"","css_class":"icon3","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu menu_col4","container_css":"","depth":"1"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-24","container_css":"","depth":"2"},{"type":"text","text":"e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8xOCIgZGlyZWN0aW9uPSJ2ZXJ0aWNhbCJ9fQ==","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Watch","sublabel":"","url":"","target":"","css_class":"icon4","container_css":"","depth":"0"},{"type":"link","label":"Laptop \/ computer","sublabel":"","url":"","target":"","css_class":"icon5","container_css":"","depth":"0"},{"type":"link","label":"Iphone \/ Ipod \/ Ipad","sublabel":"","url":"","target":"","css_class":"icon6","container_css":"","depth":"0"},{"type":"link","label":"Toys, Kids & Baby","sublabel":"","url":"{{store direct_url=''}}furniture.html","target":"","css_class":"dd-menu-link icon7","container_css":"","depth":"0"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"1"},{"type":"link","label":"Link 1.1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"2"},{"type":"link","label":"Link 1.2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"2"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"1"},{"type":"link","label":"Link 3","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"1"},{"type":"link","label":"Home garden & Tools","sublabel":"","url":"{{store direct_url=''}}electronics.html","target":"","css_class":"icon8","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu menu_col10","container_css":"","depth":"1"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-12","container_css":"","depth":"2"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"text","text":"VGhpcyBpcyBzYW1wbGUgY29udGVudCBvZiAiVGV4dCIgbWVudSBpdGVtLiBZb3UgY2FuIGVudGVyIHlvdXIgb3duIHRleHQgaGVyZS4gSXQgc3VwcG9ydHMgPHN0cm9uZz5XWVNJV1lHIEVkaXRvcjwvc3Ryb25nPiBhcyB3ZWxsIGFzIDxlbT5tYWdlbnRvIGRpcmVjdGl2ZTwvZW0+IChibG9jaywgd2lkZ2V0Li4uKQo=","css_class":"","container_css":"","depth":"3"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-12","container_css":"","depth":"2"},{"type":"text","text":"VGhpcyBpcyBzYW1wbGUgY29udGVudCBvZiAiVGV4dCIgbWVudSBpdGVtLiBZb3UgY2FuIGVudGVyIHlvdXIgb3duIHRleHQgaGVyZS4gSXQgc3VwcG9ydHMgPHN0cm9uZz5XWVNJV1lHIEVkaXRvcjwvc3Ryb25nPiBhcyB3ZWxsIGFzIDxlbT5tYWdlbnRvIGRpcmVjdGl2ZTwvZW0+IChibG9jaywgd2lkZ2V0Li4uKQ==","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Jewelry","sublabel":"","url":"{{store direct_url=''}}apparel.html","target":"","css_class":"icon9","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu menu_col16 fix-top","container_css":"","depth":"1"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8","container_css":"","depth":"2"},{"type":"text","text":"PGgzPkZpcnN0IENvbHVtbiBjb250YWlucyBvbmx5IGl0ZW0gIlRleHQiPC9oMz4KVGhpcyBpcyBzYW1wbGUgY29udGVudCBvZiAiVGV4dCIgbWVudSBpdGVtLiBZb3UgY2FuIGVudGVyIHlvdXIgb3duIHRleHQgaGVyZS4gSXQgc3VwcG9ydHMgPHN0cm9uZz5XWVNJV1lHIEVkaXRvcjwvc3Ryb25nPiBhcyB3ZWxsIGFzIDxlbT5tYWdlbnRvIGRpcmVjdGl2ZTwvZW0+IChibG9jaywgd2lkZ2V0Li4uKQ==","css_class":"","container_css":"","depth":"3"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8","container_css":"","depth":"2"},{"type":"text","text":"PGgzPlNlY29uZCBDb2x1bW48L2gzPgo8cD5UaGlzIGlzIHNhbXBsZSBjb250ZW50IG9mICJUZXh0IiBtZW51IGl0ZW0uIFlvdSBjYW4gZW50ZXIgeW91ciBvd24gdGV4dCBoZXJlLiBJdCBzdXBwb3J0cyA8c3Ryb25nPldZU0lXWUcgRWRpdG9yPC9zdHJvbmc+IGFzIHdlbGwgYXMgPGVtPm1hZ2VudG8gZGlyZWN0aXZlPC9lbT4gKGJsb2NrLCB3aWRnZXQuLi4pPC9wPgo8cD5CZWxvdyBpcyAyIDxzdHJvbmc+TGluazwvc3Ryb25nPiBpdGVtczo8L3A+","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8 nav-right","container_css":"","depth":"2"},{"type":"text","text":"PGgzPjNyZCBDb2x1bW48L2gzPgo8cD5CZWxvdyBpcyA8Y29kZT57IHt3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn0gfTwvY29kZT48L3A+Cnt7d2lkZ2V0IHR5cGU9Im1lZ2FtZW51cHJvL2NhdGFsb2duYXZpZ2F0aW9uIiBjYXRlZ29yeV9pZD0iY2F0ZWdvcnkvMyIgZGlyZWN0aW9uPSJ2ZXJ0aWNhbCJ9fQo8cD5CZWxvdyBpcyBzdGF0aWMgbGlua3M6PC9wPg==","css_class":"menu-link","container_css":"","depth":"3"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Musical instrument","sublabel":"","url":"#","target":"","css_class":"icon10","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu menu_col15 fix-top","container_css":"","depth":"1"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"","container_css":"","depth":"2"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8 ","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSAyNTBweDwvc3Ryb25nPjwvcD4KCjxwPlRoaXMgaXMgc2FtcGxlIGNvbnRlbnQgb2YgIlRleHQiIG1lbnUgaXRlbS4gWW91IGNhbiBlbnRlciB5b3VyIG93biB0ZXh0IGhlcmUuIEl0IHN1cHBvcnRzIDxzdHJvbmc+V1lTSVdZRyBFZGl0b3I8L3N0cm9uZz4gYXMgd2VsbCBhcyA8ZW0+bWFnZW50byBkaXJlY3RpdmU8L2VtPiAoYmxvY2ssIHdpZGdldC4uLik8L3A+CjxwPkJlbG93IGlzIDIgPHN0cm9uZz5MaW5rPC9zdHJvbmc+IGl0ZW1zOjwvcD4K","css_class":"","container_css":"","depth":"4"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"4"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"4"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSAyNTBweDwvc3Ryb25nPjwvcD4KCjxwPkJlbG93IGlzIDxjb2RlPnsge3dpZGdldCB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgY2F0ZWdvcnlfaWQ9ImNhdGVnb3J5LzMiIGRpcmVjdGlvbj0idmVydGljYWwifSB9PC9jb2RlPjwvcD4Ke3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn19","css_class":"menu-link","container_css":"","depth":"4"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8 ","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSAyNTBweDwvc3Ryb25nPjwvcD4KCjxwPlRoaXMgaXMgc2FtcGxlIGNvbnRlbnQgb2YgIlRleHQiIG1lbnUgaXRlbS4gWW91IGNhbiBlbnRlciB5b3VyIG93biB0ZXh0IGhlcmUuIEl0IHN1cHBvcnRzIDxzdHJvbmc+V1lTSVdZRyBFZGl0b3I8L3N0cm9uZz4gYXMgd2VsbCBhcyA8ZW0+bWFnZW50byBkaXJlY3RpdmU8L2VtPiAoYmxvY2ssIHdpZGdldC4uLik8L3A+","css_class":"","container_css":"","depth":"4"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"","container_css":"","depth":"2"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-12","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSA0MDBweDwvc3Ryb25nPjwvcD4KCjxwPlRoaXMgaXMgc2FtcGxlIGNvbnRlbnQgb2YgIlRleHQiIG1lbnUgaXRlbS4gWW91IGNhbiBlbnRlciB5b3VyIG93biB0ZXh0IGhlcmUuIEl0IHN1cHBvcnRzIDxzdHJvbmc+V1lTSVdZRyBFZGl0b3I8L3N0cm9uZz4gYXMgd2VsbCBhcyA8ZW0+bWFnZW50byBkaXJlY3RpdmU8L2VtPiAoYmxvY2ssIHdpZGdldC4uLik8L3A+","css_class":"","container_css":"","depth":"4"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-12 menu-link ","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSAzNTBweDwvc3Ryb25nPjwvcD4KCjxwPkJlbG93IGlzIDxjb2RlPnsge3dpZGdldCB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgY2F0ZWdvcnlfaWQ9ImNhdGVnb3J5LzMiIGRpcmVjdGlvbj0idmVydGljYWwifSB9PC9jb2RlPjwvcD4Ke3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn19","css_class":"menu-link","container_css":"","depth":"4"},{"type":"link","label":"Sport","sublabel":"","url":"#","target":"","css_class":"icon11","container_css":"","depth":"0"},{"type":"vbox","width":"","height":"","spacing":"20","css_class":"col-menu col-sm-24 menu_col6 fix-top","container_css":"","depth":"1"},{"type":"text","text":"PHA+VXNlIDxzdHJvbmc+Um93cyBMYXlvdXQ8L3N0cm9uZz4gYXMgcGFyZW50IDxzdHJvbmc+VGV4dDwvc3Ryb25nPiBmb3IgcHVycG9zZSBvZiBzZXR0aW5nIDxlbT5zcGFjaW5nPTEwPC9lbT48L3A+Cgo8cD5DYXRlZ29yaWVzJyBDb250YWluZXIgQ1NTOiA8ZW0+d2lkdGg6MzAwcHg8L2VtPjwvcD4KCjxwPjxjb2RlPnsge3dpZGdldCB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgY2F0ZWdvcnlfaWQ9ImNhdGVnb3J5LzMiIGRpcmVjdGlvbj0idmVydGljYWwifSB9PC9jb2RlPjwvcD4KCjxwPjxzdHJvbmc+VGV4dDwvc3Ryb25nPiBpdGVtIGNvbnRhaW5zIHRoZSBibG9jayA8ZW0+bWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb248L2VtPiBhbHJlYWR5IGhhcyBtYXJnaW4gc28gd2UgcGxhY2UgaXQgb3V0c2lkZSB0aGUgPHN0cm9uZz5Sb3dzIExheW91dDwvc3Ryb25nPjwvcD4=","css_class":"","container_css":"","depth":"2"},{"type":"text","text":"e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn19","css_class":"menu-link","container_css":"","depth":"2"}]]]></content>
+      <css_class><![CDATA[]]></css_class>
+    </menu>
+    <menu id="3">
+      <name><![CDATA[Sample Vertical Menu Right]]></name>
+      <identifier><![CDATA[autoupdate_3_sample_vertical_menu_right]]></identifier>
+      <description><![CDATA[Coming soon]]></description>
+      <type><![CDATA[1]]></type>
+      <status><![CDATA[1]]></status>
+      <content><![CDATA[[{"type":"link","label":"First Link Item","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"0"},{"type":"text","text":"e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn19","css_class":"","container_css":"","depth":"0"},{"type":"link","label":"1 Column","sublabel":"","url":"{{store direct_url=''}}furniture.html","target":"","css_class":"dd-menu-link","container_css":"","depth":"0"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"1"},{"type":"link","label":"Link 1.1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"2"},{"type":"link","label":"Link 1.2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"2"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"1"},{"type":"link","label":"Link 3","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"1"},{"type":"link","label":"2 Columns","sublabel":"","url":"{{store direct_url=''}}electronics.html","target":"","css_class":"","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu menu_col10","container_css":"","depth":"1"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-12","container_css":"","depth":"2"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"text","text":"VGhpcyBpcyBzYW1wbGUgY29udGVudCBvZiAiVGV4dCIgbWVudSBpdGVtLiBZb3UgY2FuIGVudGVyIHlvdXIgb3duIHRleHQgaGVyZS4gSXQgc3VwcG9ydHMgPHN0cm9uZz5XWVNJV1lHIEVkaXRvcjwvc3Ryb25nPiBhcyB3ZWxsIGFzIDxlbT5tYWdlbnRvIGRpcmVjdGl2ZTwvZW0+IChibG9jaywgd2lkZ2V0Li4uKQo=","css_class":"","container_css":"","depth":"3"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-12","container_css":"","depth":"2"},{"type":"text","text":"VGhpcyBpcyBzYW1wbGUgY29udGVudCBvZiAiVGV4dCIgbWVudSBpdGVtLiBZb3UgY2FuIGVudGVyIHlvdXIgb3duIHRleHQgaGVyZS4gSXQgc3VwcG9ydHMgPHN0cm9uZz5XWVNJV1lHIEVkaXRvcjwvc3Ryb25nPiBhcyB3ZWxsIGFzIDxlbT5tYWdlbnRvIGRpcmVjdGl2ZTwvZW0+IChibG9jaywgd2lkZ2V0Li4uKQ==","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"3 Columns","sublabel":"","url":"{{store direct_url=''}}apparel.html","target":"","css_class":"","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu menu_col16 fix-top","container_css":"","depth":"1"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8","container_css":"","depth":"2"},{"type":"text","text":"PGgzPkZpcnN0IENvbHVtbiBjb250YWlucyBvbmx5IGl0ZW0gIlRleHQiPC9oMz4KVGhpcyBpcyBzYW1wbGUgY29udGVudCBvZiAiVGV4dCIgbWVudSBpdGVtLiBZb3UgY2FuIGVudGVyIHlvdXIgb3duIHRleHQgaGVyZS4gSXQgc3VwcG9ydHMgPHN0cm9uZz5XWVNJV1lHIEVkaXRvcjwvc3Ryb25nPiBhcyB3ZWxsIGFzIDxlbT5tYWdlbnRvIGRpcmVjdGl2ZTwvZW0+IChibG9jaywgd2lkZ2V0Li4uKQ==","css_class":"","container_css":"","depth":"3"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8","container_css":"","depth":"2"},{"type":"text","text":"PGgzPlNlY29uZCBDb2x1bW48L2gzPgo8cD5UaGlzIGlzIHNhbXBsZSBjb250ZW50IG9mICJUZXh0IiBtZW51IGl0ZW0uIFlvdSBjYW4gZW50ZXIgeW91ciBvd24gdGV4dCBoZXJlLiBJdCBzdXBwb3J0cyA8c3Ryb25nPldZU0lXWUcgRWRpdG9yPC9zdHJvbmc+IGFzIHdlbGwgYXMgPGVtPm1hZ2VudG8gZGlyZWN0aXZlPC9lbT4gKGJsb2NrLCB3aWRnZXQuLi4pPC9wPgo8cD5CZWxvdyBpcyAyIDxzdHJvbmc+TGluazwvc3Ryb25nPiBpdGVtczo8L3A+","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8","container_css":"","depth":"2"},{"type":"text","text":"PGgzPjNyZCBDb2x1bW48L2gzPgo8cD5CZWxvdyBpcyA8Y29kZT57IHt3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn0gfTwvY29kZT48L3A+Cnt7d2lkZ2V0IHR5cGU9Im1lZ2FtZW51cHJvL2NhdGFsb2duYXZpZ2F0aW9uIiBjYXRlZ29yeV9pZD0iY2F0ZWdvcnkvMyIgZGlyZWN0aW9uPSJ2ZXJ0aWNhbCJ9fQo8cD5CZWxvdyBpcyBzdGF0aWMgbGlua3M6PC9wPg==","css_class":"menu-link","container_css":"","depth":"3"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"Mixed Columns","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu menu_col15 fix-top","container_css":"","depth":"1"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"","container_css":"","depth":"2"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8 ","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSAyNTBweDwvc3Ryb25nPjwvcD4KCjxwPlRoaXMgaXMgc2FtcGxlIGNvbnRlbnQgb2YgIlRleHQiIG1lbnUgaXRlbS4gWW91IGNhbiBlbnRlciB5b3VyIG93biB0ZXh0IGhlcmUuIEl0IHN1cHBvcnRzIDxzdHJvbmc+V1lTSVdZRyBFZGl0b3I8L3N0cm9uZz4gYXMgd2VsbCBhcyA8ZW0+bWFnZW50byBkaXJlY3RpdmU8L2VtPiAoYmxvY2ssIHdpZGdldC4uLik8L3A+CjxwPkJlbG93IGlzIDIgPHN0cm9uZz5MaW5rPC9zdHJvbmc+IGl0ZW1zOjwvcD4K","css_class":"","container_css":"","depth":"4"},{"type":"link","label":"Link 1","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"4"},{"type":"link","label":"Link 2","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"4"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8 ","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSAyNTBweDwvc3Ryb25nPjwvcD4KCjxwPkJlbG93IGlzIDxjb2RlPnsge3dpZGdldCB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgY2F0ZWdvcnlfaWQ9ImNhdGVnb3J5LzMiIGRpcmVjdGlvbj0idmVydGljYWwifSB9PC9jb2RlPjwvcD4Ke3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn19","css_class":"menu-link","container_css":"","depth":"4"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-8 ","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSAyNTBweDwvc3Ryb25nPjwvcD4KCjxwPlRoaXMgaXMgc2FtcGxlIGNvbnRlbnQgb2YgIlRleHQiIG1lbnUgaXRlbS4gWW91IGNhbiBlbnRlciB5b3VyIG93biB0ZXh0IGhlcmUuIEl0IHN1cHBvcnRzIDxzdHJvbmc+V1lTSVdZRyBFZGl0b3I8L3N0cm9uZz4gYXMgd2VsbCBhcyA8ZW0+bWFnZW50byBkaXJlY3RpdmU8L2VtPiAoYmxvY2ssIHdpZGdldC4uLik8L3A+","css_class":"","container_css":"","depth":"4"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"","container_css":"","depth":"2"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-12","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSA0MDBweDwvc3Ryb25nPjwvcD4KCjxwPlRoaXMgaXMgc2FtcGxlIGNvbnRlbnQgb2YgIlRleHQiIG1lbnUgaXRlbS4gWW91IGNhbiBlbnRlciB5b3VyIG93biB0ZXh0IGhlcmUuIEl0IHN1cHBvcnRzIDxzdHJvbmc+V1lTSVdZRyBFZGl0b3I8L3N0cm9uZz4gYXMgd2VsbCBhcyA8ZW0+bWFnZW50byBkaXJlY3RpdmU8L2VtPiAoYmxvY2ssIHdpZGdldC4uLik8L3A+","css_class":"","container_css":"","depth":"4"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-sm-12","container_css":"","depth":"3"},{"type":"text","text":"PHA+PHN0cm9uZz5Db2x1bW4gd2lkdGggPSAzNTBweDwvc3Ryb25nPjwvcD4KCjxwPkJlbG93IGlzIDxjb2RlPnsge3dpZGdldCB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgY2F0ZWdvcnlfaWQ9ImNhdGVnb3J5LzMiIGRpcmVjdGlvbj0idmVydGljYWwifSB9PC9jb2RlPjwvcD4Ke3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn19","css_class":"menu-link","container_css":"","depth":"4"},{"type":"link","label":"Categories","sublabel":"","url":"#","target":"","css_class":"","container_css":"","depth":"0"},{"type":"vbox","width":"","height":"","spacing":"20","css_class":"col-menu col-sm-24 menu_col6 fix-top","container_css":"","depth":"1"},{"type":"text","text":"PHA+VXNlIDxzdHJvbmc+Um93cyBMYXlvdXQ8L3N0cm9uZz4gYXMgcGFyZW50IDxzdHJvbmdUZXh0PC9zdHJvbmc+IGZvciBwdXJwb3NlIG9mIHNldHRpbmcgPGVtPnNwYWNpbmc9MTA8L2VtPjwvcD4KCjxwPkNhdGVnb3JpZXMnIENvbnRhaW5lciBDU1M6IDxlbT53aWR0aDozMDBweDwvZW0+PC9wPgoKPHA+PGNvZGU+eyB7d2lkZ2V0IHR5cGU9Im1lZ2FtZW51cHJvL2NhdGFsb2duYXZpZ2F0aW9uIiBjYXRlZ29yeV9pZD0iY2F0ZWdvcnkvMyIgZGlyZWN0aW9uPSJ2ZXJ0aWNhbCJ9IH08L2NvZGU+PC9wPgoKPHA+PHN0cm9uZz5UZXh0PC9zdHJvbmc+IGl0ZW0gY29udGFpbnMgdGhlIGJsb2NrIDxlbT5tZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbjwvZW0+IGFscmVhZHkgaGFzIG1hcmdpbiBzbyB3ZSBwbGFjZSBpdCBvdXRzaWRlIHRoZSA8c3Ryb25nPlJvd3MgTGF5b3V0PC9zdHJvbmc+PC9wPg==","css_class":"","container_css":"","depth":"2"},{"type":"text","text":"e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn19","css_class":"menu-link","container_css":"","depth":"2"}]]]></content>
+      <css_class><![CDATA[nav-right]]></css_class>
+    </menu>
+    <menu id="6">
+      <name><![CDATA[EM0121 TitanyShop Horizontal Menu]]></name>
+      <identifier><![CDATA[autoupdate_6_em0121_titanyshop_horizontal_menu]]></identifier>
+      <description><![CDATA[Coming soon]]></description>
+      <type><![CDATA[0]]></type>
+      <status><![CDATA[1]]></status>
+      <content><![CDATA[[{"type":"link","label":"Home","sublabel":"","url":"","target":"","css_class":"","container_css":"dropdown-menu","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu col-sm-24 ","container_css":"","depth":"1"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"menu_col6","container_css":"","depth":"2"},{"type":"text","text":"PGg1PlFVSUNLIFNIT1A8L2g1Pgp7e3dpZGdldCB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgY2F0ZWdvcnlfaWQ9ImNhdGVnb3J5LzEwIiBkaXJlY3Rpb249InZlcnRpY2FsIn19CjxoNSBjbGFzcz0ibS1saW5lIj5BSkFYQ0FSVDwvaDU+Cnt7d2lkZ2V0IHR5cGU9Im1lZ2FtZW51cHJvL2NhdGFsb2duYXZpZ2F0aW9uIiBjYXRlZ29yeV9pZD0iY2F0ZWdvcnkvMTUiIGRpcmVjdGlvbj0idmVydGljYWwifX0=","css_class":"col-sm-24","container_css":"","depth":"3"},{"type":"link","label":"Clothes","sublabel":"","url":"","target":"","css_class":"","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"container","container_css":"","depth":"1"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-menu col-sm-24 row","container_css":"","depth":"2"},{"type":"text","text":"PHAgY2xhc3M9Imxpc3QtaW1nIj48YSBocmVmPSIjIj48aW1nIHNyYz0ie3tza2luIHVybD0iaW1hZ2VzL21lZGlhL2Zvb3Rlci9icmFuZDEucG5nIn19IiBhbHQ9IiIgLz48L2E+PGEgaHJlZj0iIyI+PGltZyBzcmM9Int7c2tpbiB1cmw9ImltYWdlcy9tZWRpYS9mb290ZXIvYnJhbmQyLnBuZyJ9fSIgYWx0PSIiIC8+PC9hPjxhIGhyZWY9IiMiPjxpbWcgc3JjPSJ7e3NraW4gdXJsPSJpbWFnZXMvbWVkaWEvZm9vdGVyL2JyYW5kMy5wbmcifX0iIGFsdD0iIiAvPjwvYT48YSBocmVmPSIjIj48aW1nIHNyYz0ie3tza2luIHVybD0iaW1hZ2VzL21lZGlhL2Zvb3Rlci9icmFuZDQucG5nIn19IiBhbHQ9IiIgLz48L2E+PGEgaHJlZj0iIyI+PGltZyBzcmM9Int7c2tpbiB1cmw9ImltYWdlcy9tZWRpYS9mb290ZXIvYnJhbmQ1LnBuZyJ9fSIgYWx0PSIiIC8+PC9hPjxhIGhyZWY9IiMiPjxpbWcgc3JjPSJ7e3NraW4gdXJsPSJpbWFnZXMvbWVkaWEvZm9vdGVyL2JyYW5kNi5wbmcifX0iIGFsdD0iIiAvPjwvYT48YSBocmVmPSIjIj48aW1nIHNyYz0ie3tza2luIHVybD0iaW1hZ2VzL21lZGlhL2Zvb3Rlci9icmFuZDcucG5nIn19IiBhbHQ9IiIgLz48L2E+PGEgaHJlZj0iIyI+PGltZyBzcmM9Int7c2tpbiB1cmw9ImltYWdlcy9tZWRpYS9mb290ZXIvYnJhbmQxLnBuZyJ9fSIgYWx0PSIiIC8+PC9hPjwvcD4=","css_class":"","container_css":"","depth":"3"},{"type":"link","label":"watch","sublabel":"","url":"","target":"","css_class":"menu-link","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu col-sm-24 col-8","container_css":"width:160px;","depth":"1"},{"type":"text","text":"e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8zIiBkaXJlY3Rpb249InZlcnRpY2FsIn19Cg==","css_class":"col-sm-24","container_css":"","depth":"2"},{"type":"link","label":"shoes","sublabel":"","url":"","target":"","css_class":"","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"container","container_css":"","depth":"1"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-menu col-sm-24 row","container_css":"","depth":"2"},{"type":"text","text":"PHA+PGEgY2xhc3M9ImltZyIgaHJlZj0iIyI+PGltZyBzdHlsZT0ibWF4LXdpZHRoOjEwMCUiIHNyYz0ie3ttZWRpYSB1cmw9Ind5c2l3eWcvbWVudV9pbWcyLnBuZyJ9fSIgYWx0PSIiIC8+PC9hPjwvcD4KPHA+RG9uZWMgc29sbGljaXR1ZGluLCBsZWN0dXMgdmVsIHNvZGFsZXMgY29uc2VjdGV0dXIsIGxpYmVybyBuaWJoIGlhY3VsaXMgb2RpbywgYWMgZWxlaWZlbmQgb2RpbyBtaSBpZCBuaXNsLiBFdGlhbSBmZWxpcyBsZW8sIHZ1bHB1dGF0ZSBpbiB2ZXN0aWJ1bHVtIHZhcml1cywgYWNjdW1zYW4gdGVtcG9yIGxpZ3VsYS4gU3VzcGVuZGlzc2UgbWF1cmlzIG5pYmgsIG1vbGxpcyBhYyB0ZW1wdXMgc2l0IGFtZXQsIGZhY2lsaXNpcyBpbiBudW5jLiBQcm9pbiBhYyBvcmNpIGlwc3VtLiBTZWQgcXVpcyB2ZWhpY3VsYSBlc3QuIE51bmMgY29uZ3VlIG5pc2kgdml0YWUgbWkgcGxhY2VyYXQgcGhhcmV0cmEuIG1hc3NhIGxhY2luaWEuIE51bGxhIGZhY2lsaXNpLiBQcmFlc2VudCBuaXNpIG9kaW8sIHBvc3VlcmUgYWMgdmFyaXVzIGV1LCBwZWxsZW50ZXNxdWUgc2l0IGFtZXQgbmlzaS48L3A+CjxwPkRvbmVjIHNvbGxpY2l0dWRpbiwgbGVjdHVzIHZlbCBzb2RhbGVzIGNvbnNlY3RldHVyLCBsaWJlcm8gbmliaCBpYWN1bGlzIG9kaW8sIGFjIGVsZWlmZW5kIG9kaW8gbWkgaWQgbmlzbC4gRXRpYW0gZmVsaXMgbGVvLCB2dWxwdXRhdGUgaW4gdmVzdGlidWx1bSB2YXJpdXMsIGFjY3Vtc2FuIHRlbXBvciBsaWd1bGEuIFN1c3BlbmRpc3NlIG1hdXJpcyBuaWJoLCBtb2xsaXMgYWMgdGVtcHVzIHNpdCBhbWV0LCBmYWNpbGlzaXMgaW4gbnVuYy4gPC9wPgo8cD5Qcm9pbiBhYyBvcmNpIGlwc3VtLiBTZWQgcXVpcyB2ZWhpY3VsYSBlc3QuIE51bmMgY29uZ3VlIG5pc2kgdml0YWUgbWkgcGxhY2VyYXQgcGhhcmV0cmEuIG1hc3NhIGxhY2luaWEuIE51bGxhIGZhY2lsaXNpLiBQcmFlc2VudCBuaXNpIG9kaW8sIHBvc3VlcmUgYWMgdmFyaXVzIGV1LCBwZWxsZW50ZXNxdWUgc2l0IGFtZXQgbmlzaS48L3A+","css_class":"col-sm-8","container_css":"","depth":"3"},{"type":"text","text":"PGg1PkJBQ0tHUk9VTkQgUEFURVJOUzwvaDU+CjxkaXY+e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8xNSJ9fTwvZGl2Pgo8ZGl2Pnt7d2lkZ2V0IHR5cGU9Im1lZ2FtZW51cHJvL2NhdGFsb2duYXZpZ2F0aW9uIiBjYXRlZ29yeV9pZD0iY2F0ZWdvcnkvMTUifX08L2Rpdj4=","css_class":"col-sm-4","container_css":"","depth":"3"},{"type":"text","text":"PGg1PlBST0RVQ1QgTEFCRUxTPC9oNT4KPGRpdj57e3dpZGdldCB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgY2F0ZWdvcnlfaWQ9ImNhdGVnb3J5LzE1In19PC9kaXY+CjxkaXY+e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8xNSJ9fTwvZGl2Pg==","css_class":"col-sm-4","container_css":"","depth":"3"},{"type":"text","text":"PGEgY2xhc3M9ImltZyIgaHJlZj0iaHR0cDovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9GRXFYV3dQRnVzSSIgb25jbGljaz0idGFyZ2V0PSdfYmxhbmsnIj4KPGltZyBjbGFzcz0iaW1nLXJlc3BvbnNpdmUiIHNyYz0ie3ttZWRpYSB1cmw9Ind5c2l3eWcvbWVudV92aWRlby5wbmcifX0iIGFsdD0iIiAvPgo8L2E+CjxwPk51bmMgcGhhcmV0cmEgbG9yZW0gZWdldCBzYXBpZW4gb3JuYXJlIGlkIHBsYWNlcmF0IG1hc3NhIGxhY2luaWEuIE51bGxhIGZhY2lsaXNpLiBQcmFlc2VudCBuaXNpIG9kaW8sIHBvc3VlcmUgYWMgdmFyaXVzIGV1LCBwZWxsZW50ZXNxdWUgc2l0IGFtZXQgbmlzaS4gTW9yYmkgdWxsYW1jb3JwZXIgbnVsbGEgaWQgbG9yZW0gcmhvbmN1cyBibGFuZGl0LiBOdW5jIG1vbGVzdGllIHByZXRpdW0gcGhhcmV0cmEuIFN1c3BlbmRpc3NlIGluIGVsaXQgZHVpLCBhYyB2ZWhpY3VsYSBlcmF0LiBWaXZhbXVzIGNvbnNlcXVhdCByaXN1cyB1dCBkdWkgZmV1Z2lhdCBlbGVpZmVuZC48YnIvPm1hc3NhIGxhY2luaWEuIE51bGxhIGZhY2lsaXNpLiBQcmFlc2VudCBuaXNpIG9kaW8sIHBvc3VlcmUgYWMgdmFyaXVzIGV1LCBwZWxsZW50ZXNxdWUgc2l0IGFtZXQgbmlzaS4gIDwvcD4=","css_class":"col-sm-8","container_css":"","depth":"3"},{"type":"link","label":"digital","sublabel":"","url":"","target":"","css_class":"","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"container","container_css":"","depth":"1"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"col-menu col-sm-24 row","container_css":"","depth":"2"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"","container_css":"","depth":"3"},{"type":"text","text":"PGg1PlJFVElOQSBSRUFEWTwvaDU+CjxkaXY+e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8xNSJ9fTwvZGl2Pgo=","css_class":"col-sm-4","container_css":"","depth":"4"},{"type":"text","text":"PGg1PkZVTExZIFJFU1BPTlNJVkU8L2g1Pgo8ZGl2Pnt7d2lkZ2V0IHR5cGU9Im1lZ2FtZW51cHJvL2NhdGFsb2duYXZpZ2F0aW9uIiBjYXRlZ29yeV9pZD0iY2F0ZWdvcnkvMTUifX08L2Rpdj4K","css_class":"col-sm-4","container_css":"","depth":"4"},{"type":"text","text":"PGg1PlVOTElNSVRFRCBDT0xPUlM8L2g1Pgo8ZGl2Pnt7d2lkZ2V0IHR5cGU9Im1lZ2FtZW51cHJvL2NhdGFsb2duYXZpZ2F0aW9uIiBjYXRlZ29yeV9pZD0iY2F0ZWdvcnkvMTUifX08L2Rpdj4K","css_class":"col-sm-4","container_css":"","depth":"4"},{"type":"text","text":"PGg1PkNVU1RPTSBXSURHRVRTPC9oNT4KPGRpdj57e3dpZGdldCB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgY2F0ZWdvcnlfaWQ9ImNhdGVnb3J5LzE1In19PC9kaXY+Cg==","css_class":"col-sm-4","container_css":"","depth":"4"},{"type":"text","text":"PGg1PkNVU1RPTSBDT0xPUlM8L2g1Pgo8ZGl2Pnt7d2lkZ2V0IHR5cGU9Im1lZ2FtZW51cHJvL2NhdGFsb2duYXZpZ2F0aW9uIiBjYXRlZ29yeV9pZD0iY2F0ZWdvcnkvMTUifX08L2Rpdj4K","css_class":"col-sm-4","container_css":"","depth":"4"},{"type":"text","text":"PGg1PkdPT0dMRSBGT05UUzwvaDU+CjxkaXY+e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8xNSJ9fTwvZGl2Pgo=","css_class":"col-sm-4","container_css":"","depth":"4"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"","container_css":"","depth":"3"},{"type":"text","text":"PHAgY2xhc3M9ImNvbC10aXRsZSI+SGVyZSBpcyBzb21lIGNvbnRlbnQgd2l0aCBzaWRlIGltYWdlczwvcD4KPHA+PGEgY2xhc3M9ImltZyIgaHJlZj0iIyI+PGltZyBjbGFzcz0iaW1nLXJlc3BvbnNpdmUiIHNyYz0ie3ttZWRpYSB1cmw9Ind5c2l3eWcvbWVudV9pbWcxLnBuZyJ9fSIgYWx0PSIiIC8+PC9hPjwvcD4=","css_class":"col-sm-8","container_css":"","depth":"4"},{"type":"text","text":"PHAgY2xhc3M9ImNvbC10aXRsZSI+WW91IGNhbiB1c2UgaGlnaHRsaWdodCBzb21lIGNvbnRlbnQ8L3A+CjxwPk1hdXJpcyB0aW5jaWR1bnRzIG1hbGVzdWFkYSBwZWxsZW50ZXNxdWUgZmVybWVudHVtIG1pIGZlbGlzIG51bmMganVzdG8gbGFjdXMgZmV1Z2lhdCBub24gdmVoaWN1bGEgc2l0IGFtZXQuIDwvcD4KPHA+RG9uZWMgc29sbGljaXR1ZGluLCBsZWN0dXMgdmVsIHNvZGFsZXMgY29uc2VjdGV0dXIsIGxpYmVybyBuaWJoIGlhY3VsaXMgb2RpbywgYWMgZWxlaWZlbmQgb2RpbyBtaSBpZCBuaXNsLiBFdGlhbSBmZWxpcyBsZW8sIHZ1bHB1dGF0ZSBpbiB2ZXN0aWJ1bHVtIHZhcml1cywgYWNjdW1zYW4gdGVtcG9yIGxpZ3VsYS4gU3VzcGVuZGlzc2UgbWF1cmlzIG5pYmgsIG1vbGxpcyBhYyB0ZW1wdXMgc2l0IGFtZXQsIGZhY2lsaXNpcyBpbiBudW5jLiBQcm9pbiBhYyBvcmNpIGlwc3VtLiBTZWQgcXVpcyB2ZWhpY3VsYSBlc3QuIE51bmMgY29uZ3VlIG5pc2kgdml0YWUgbWkgcGxhY2VyYXQgcGhhcmV0cmEuPGJyLz5uaWJoIGlhY3VsaXMgb2RpbywgYWMgZWxlaWZlbmQgb2RpbyBtaSBpZCBuaXNsLiBFdGlhbSBmZWxpcwpuaWJoIGlhY3VsaXMgb2RpbywgYWMgZWxlaWZlbmQgb2RpbyBtaSBpZCBuaXNsLiA8L3A+","css_class":"col-sm-8","container_css":"","depth":"4"},{"type":"text","text":"PHAgY2xhc3M9ImNvbC10aXRsZSI+Jm5ic3A7PC9wPgo8cD5QZWxsZW50ZXNxdWUgZmVybWVudHVtIG1pIG51bmMganVzdG8gZmV1Z2lhdCBub24gdmVoaWN1bGEgc2l0IGFtZXQsIGRhcGlidXMgc2l0IGFtZXQgaXBzdW0uIDwvcD4KPHA+TnVuYyBwaGFyZXRyYSBsb3JlbSBlZ2V0IHNhcGllbiBvcm5hcmUgaWQgcGxhY2VyYXQgbWFzc2EgbGFjaW5pYS4gTnVsbGEgZmFjaWxpc2kuIFByYWVzZW50IG5pc2kgb2RpbywgcG9zdWVyZSBhYyB2YXJpdXMgZXUsIHBlbGxlbnRlc3F1ZSBzaXQgYW1ldCBuaXNpLiBNb3JiaSB1bGxhbWNvcnBlciBudWxsYSBpZCBsb3JlbSByaG9uY3VzIGJsYW5kaXQuIE51bmMgbW9sZXN0aWUgcHJldGl1bSBwaGFyZXRyYS4gU3VzcGVuZGlzc2UgaW4gZWxpdCBkdWksIGFjIHZlaGljdWxhIGVyYXQuIFZpdmFtdXMgY29uc2VxdWF0IHJpc3VzIHV0IGR1aSBmZXVnaWF0IGVsZWlmZW5kLjxici8+bmliaCBpYWN1bGlzIG9kaW8sIGFjIGVsZWlmZW5kIG9kaW8gbWkgaWQgbmlzbC48YnIvPm1hc3NhIGxhY2luaWEgdWxsYSBmYWNpbGlzaSBwcmFlc2VudCBuaXNpIG9kaW8uIDwvcD4=","css_class":"col-sm-8","container_css":"","depth":"4"},{"type":"link","label":"Blog","sublabel":"","url":"{{store direct_url=''}}blog","target":"","css_class":"","container_css":"","depth":"0"},{"type":"hbox","width":"","height":"","spacing":"","css_class":"container","container_css":"","depth":"1"},{"type":"vbox","width":"","height":"","spacing":"","css_class":"col-menu col-sm-24 row","container_css":"","depth":"2"},{"type":"text","text":"PHA+PGEgY2xhc3M9ImltZyIgaHJlZj0iIyI+PGltZyBzdHlsZT0ibWF4LXdpZHRoOjEwMCUiIHNyYz0ie3ttZWRpYSB1cmw9Ind5c2l3eWcvbWVudV9pbWcyLnBuZyJ9fSIgYWx0PSIiIC8+PC9hPjwvcD4KPHA+RG9uZWMgc29sbGljaXR1ZGluLCBsZWN0dXMgdmVsIHNvZGFsZXMgY29uc2VjdGV0dXIsIGxpYmVybyBuaWJoIGlhY3VsaXMgb2RpbywgYWMgZWxlaWZlbmQgb2RpbyBtaSBpZCBuaXNsLiBFdGlhbSBmZWxpcyBsZW8sIHZ1bHB1dGF0ZSBpbiB2ZXN0aWJ1bHVtIHZhcml1cywgYWNjdW1zYW4gdGVtcG9yIGxpZ3VsYS4gU3VzcGVuZGlzc2UgbWF1cmlzIG5pYmgsIG1vbGxpcyBhYyB0ZW1wdXMgc2l0IGFtZXQsIGZhY2lsaXNpcyBpbiBudW5jLiBQcm9pbiBhYyBvcmNpIGlwc3VtLjwvcD4KPHA+TG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdC4gVmVzdGlidWx1bSB2ZXN0aWJ1bHVtIGN1cnN1cyB1bHRyaWNpZXMuIFF1aXNxdWUgc2VtcGVyLCBhcmN1IGV0LCBub24gc2VtcGVyIHNhcGllbiBsYWN1cyB1dCBudWxsYS4gSW50ZWdlciB0cmlzdGlxdWUgdmVzdGlidWx1bSBtYWduYSwgc2l0IGFtZXQgdmVzdGlidWx1bSBwdXJ1cyB2ZXN0aWJ1bHVtIGlkLiBDcmFzIGN1cnN1cyBibGFuZGl0IHRpbmNpZHVudC4gQ2xhc3MgYXB0ZW50IHRhY2l0aSBzb2Npb3NxdSBhZCBsaXRvcmEgdG9ycXVlbnQsIHBlciBpbmNlcHRvcyBoaW1lbmFlb3MuIEFlbmVhbiBudW5jIG1hdXJpcywgbWF0dGlzIGZhdWNpYnVzIHBvcnRhIG9ybmFyZSwgbWF0dGlzIHV0IG5pc2wuPGJyLz50cmlzdGlxdWUgdmVzdGlidWx1bSBtYWduYSwgc2l0IGFtZXQgdmVzdGlidWx1bSBwdXJ1cyB2ZXN0aWJ1bHVtIGlkLiBDcmFzIGN1cnN1cyB0aW5jaWR1bnQuIENsYXNzIGFwdGVudCB0YWNpdGkgc29jaW9zcXUgYWQgbGl0b3JhIHRvcnF1ZW50IG5vc3RyYSwgcGVyIGluY2VwdG9zIGhpbWVuYWVvcy4gQWVuZWFuIG51bmMgbWF1cmlzLCBtYXR0aXMgZmF1Y2lidXMsIHNpdCBhbWV0IHZlc3RpYnVsdW0gcHVydXMuIDwvcD4=","css_class":"col-sm-8","container_css":"","depth":"3"},{"type":"text","text":"PGg1PkR1aXMgcG9ydHRpdG9yPC9oNT4KPGRpdj57e3dpZGdldCB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgY2F0ZWdvcnlfaWQ9ImNhdGVnb3J5LzE1In19PC9kaXY+CjxkaXY+e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8xNSJ9fTwvZGl2Pg==","css_class":"col-sm-4","container_css":"","depth":"3"},{"type":"text","text":"PGg1PkZ1c2NlIGxpZ3VsYW5pPC9oNT4KPGRpdj57e3dpZGdldCB0eXBlPSJtZWdhbWVudXByby9jYXRhbG9nbmF2aWdhdGlvbiIgY2F0ZWdvcnlfaWQ9ImNhdGVnb3J5LzE1In19PC9kaXY+CjxkaXY+e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8xNSJ9fTwvZGl2Pg==","css_class":"col-sm-4","container_css":"","depth":"3"},{"type":"text","text":"PGg1PkR1aXMgY29tbTwvaDU+CjxkaXY+e3t3aWRnZXQgdHlwZT0ibWVnYW1lbnVwcm8vY2F0YWxvZ25hdmlnYXRpb24iIGNhdGVnb3J5X2lkPSJjYXRlZ29yeS8xNSJ9fTwvZGl2Pgo8ZGl2Pnt7d2lkZ2V0IHR5cGU9Im1lZ2FtZW51cHJvL2NhdGFsb2duYXZpZ2F0aW9uIiBjYXRlZ29yeV9pZD0iY2F0ZWdvcnkvMTUifX08L2Rpdj4=","css_class":"col-sm-4","container_css":"","depth":"3"},{"type":"text","text":"PGRpdiBjbGFzcz0ibm9fcXVpY2tzaG9wIj57e3dpZGdldCB0eXBlPSJiZXN0c2VsbGVycHJvZHVjdHMvbGlzdCIgbGltaXRfY291bnQ9IjEiIGZyb250ZW5kX3RpdGxlPSJCZXN0IHNlbGxlcnMiIHRodW1ibmFpbF93aWR0aD0iMjIwIiB0aHVtYm5haWxfaGVpZ2h0PSIyODAiIHNob3dfcHJvZHVjdF9uYW1lPSJ0cnVlIiBzaG93X3RodW1ibmFpbD0idHJ1ZSIgc2hvd19kZXNjcmlwdGlvbj0iZmFsc2UiIHNob3dfcHJpY2U9InRydWUiIHNob3dfcmV2aWV3cz0idHJ1ZSIgc2hvd19hZGR0b2NhcnQ9ImZhbHNlIiBzaG93X2FkZHRvPSJmYWxzZSIgc2hvd19sYWJlbD0idHJ1ZSIgY2hvb3NlX3RlbXBsYXRlPSJlbV9iZXN0c2VsbGVyX3Byb2R1Y3RzL2Jlc3RzZWxsZXJfZ3JpZC5waHRtbCJ9fTwvZGl2Pg==","css_class":"col-sm-4","container_css":"","depth":"3"}]]]></content>
+      <css_class><![CDATA[]]></css_class>
+    </menu>
+  </megamenu>
+  <slideshows>
+    <slideshow id="1">
+      <name><![CDATA[EM0121 Slideshow]]></name>
+      <identifier><![CDATA[autoupdate_1_em0121_slideshow]]></identifier>
+      <description><![CDATA[Coming soon]]></description>
+      <images><![CDATA[[{"url":"1416802749_0_slide1.jpg","trans":"slotslide-vertical","slotamount":"7","masterspeed":"","link":"furniture.html","position":"0","video":"0","kenb":"0","kenb_bgfit":"100","kenb_bgfitend":"200","kenb_dura":"3000","info":[{"text":"\u003Cimg src=\"{{skin url=\"images\/slideshow\/s1-text1.png\"}}\" alt=\"\" \/\u003E","parallax":"0","start":"2000","end":"","data_x":"36","data_y":"175","animation":"sft","easing":"easeOutBack","speed":"1000"},{"text":"\u003Cimg src=\"{{skin url=\"images\/slideshow\/s1-text2.png\"}}\" alt=\"\" \/\u003E","parallax":"0","start":"2500","end":"","data_x":"346","data_y":"242","animation":"sfl","easing":"easeOutBack","speed":"1000"},{"text":"\u003Cimg src=\"{{skin url=\"images\/slideshow\/s-btn.png\"}}\" alt=\"\" \/\u003E","parallax":"0","start":"3000","end":"","data_x":"361","data_y":"296","animation":"sfl","easing":"easeOutBack","speed":"1000"}]},{"url":"1416803047_1_slide3.jpg","trans":"flyin","slotamount":"7","masterspeed":"","link":"furniture.html","position":"0","video":"0","kenb":"0","kenb_bgfit":"100","kenb_bgfitend":"200","kenb_dura":"3000","info":[{"text":"\u003Cimg src=\"{{skin url=\"images\/slideshow\/s3-text1.png\"}}\" alt=\"\" \/\u003E","parallax":"0","start":"2000","end":"","data_x":"36","data_y":"175","animation":"lfl","easing":"easeInOutCubic","speed":"1000"},{"text":"\u003Cimg src=\"{{skin url=\"images\/slideshow\/s3-text2.png\"}}\" alt=\"\" \/\u003E","parallax":"0","start":"2500","end":"","data_x":"346","data_y":"242","animation":"sfr","easing":"easeOutQuint","speed":"1000"},{"text":"\u003Cimg src=\"{{skin url=\"images\/slideshow\/s-btn.png\"}}\" alt=\"\" \/\u003E","parallax":"0","start":"3000","end":"","data_x":"361","data_y":"296","animation":"randomrotate","easing":"easeInOutSine","speed":"1000"}]},{"url":"1416803218_0_slide2.jpg","trans":"slideup","slotamount":"7","masterspeed":"","link":"electronics.html","position":"0","video":"0","kenb":"0","kenb_bgfit":"100","kenb_bgfitend":"200","kenb_dura":"3000","info":[{"text":"\u003Cimg src=\"{{skin url=\"images\/slideshow\/s2-text1.png\"}}\" alt=\"\" \/\u003E","parallax":"0","start":"2000","end":"","data_x":"36","data_y":"175","animation":"sft","easing":"easeOutBack","speed":"1000"},{"text":"\u003Cimg src=\"{{skin url=\"images\/slideshow\/s2-text2.png\"}}\" alt=\"\" \/\u003E","parallax":"0","start":"2500","end":"","data_x":"346","data_y":"242","animation":"lft","easing":"easeOutBack","speed":"1000"},{"text":"\u003Cimg src=\"{{skin url=\"images\/slideshow\/s-btn.png\"}}\" alt=\"\" \/\u003E","parallax":"0","start":"3000","end":"","data_x":"361","data_y":"296","animation":"lft","easing":"easeOutBack","speed":"1000"}]}]]]></images>
+      <slider_type><![CDATA[fullwidth]]></slider_type>
+      <slider_params><![CDATA[{"size_width":"900","size_height":"520","screen_width_1":"1200","slider_width_1":"735","screen_width_2":"981","slider_width_2":"570","screen_width_3":"768","slider_width_3":"580","screen_width_4":"568","slider_width_4":"420","screen_width_5":"481","slider_width_5":"460","screen_width_6":"321","slider_width_6":"300","screen_width_7":"","slider_width_7":"","screen_width_8":"","slider_width_8":"","screen_width_9":"","slider_width_9":"","screen_width_10":"","slider_width_10":""}]]></slider_params>
+      <delay><![CDATA[5000]]></delay>
+      <touch><![CDATA[on]]></touch>
+      <stop_hover><![CDATA[on]]></stop_hover>
+      <shuffle_mode><![CDATA[off]]></shuffle_mode>
+      <stop_slider><![CDATA[off]]></stop_slider>
+      <stop_after_loop><![CDATA[0]]></stop_after_loop>
+      <stop_at_slide><![CDATA[1]]></stop_at_slide>
+      <position><![CDATA[{"type":"center","mg_top":"","mg_bottom":"0","mg_left":"0","mg_right":"0"}]]></position>
+      <appearance><![CDATA[{"shadow_type":"0","show_time":"false","time_position":"top","bg_color":"","padding":"","show_bg_img":"false","bg_img":""}]]></appearance>
+      <navigation><![CDATA[{"nav_type":"bullet","nav_arrows":"verticalcentered","nav_style":"square","nav_offset_hor":"0","nav_offset_vert":"10","nav_always_on":"false","hide_thumbs":"200"}]]></navigation>
+      <thumbnail><![CDATA[{"thumb_width":"100","thumb_height":"50","thumb_amount":"5"}]]></thumbnail>
+      <visibility><![CDATA[{"hide_slider_under":"0","hide_defined_layers_under":"0","hide_all_layers_under":"0"}]]></visibility>
+      <trouble><![CDATA[{"jquery_noconflict":"on","js_to_body":"true"}]]></trouble>
+      <status><![CDATA[1]]></status>
+    </slideshow>
+  </slideshows>
+  <widget_instance>
+    <widget id="2">
+      <instance_id><![CDATA[2]]></instance_id>
+      <title><![CDATA[EM0121 - Area 2 - Slideshow]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:1:{s:9:"slideshow";s:1:"1";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:1:"2";s:5:"group";s:5:"pages";s:5:"block";s:8:"em_area2";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[slideshow2/slideshow2]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="3">
+      <instance_id><![CDATA[3]]></instance_id>
+      <title><![CDATA[EM0121 - Area Main - Featured Products]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:3:"100";s:12:"column_count";s:0:"";s:12:"custom_class";s:35:"widget-tab-home featured_tab_slider";s:14:"frontend_title";s:0:"";s:10:"item_class";s:0:"";s:20:"frontend_description";s:0:"";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"220";s:16:"thumbnail_height";s:3:"280";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:0:"";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:5:"false";s:14:"show_addtocart";s:4:"true";s:10:"show_addto";s:4:"true";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:0:{}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="7">
+      <instance_id><![CDATA[7]]></instance_id>
+      <title><![CDATA[EM0121 - Area 3 - Ads]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"10";s:12:"custom_class";s:18:"block block-03-ads";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[1]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:1:"7";s:5:"group";s:9:"all_pages";s:5:"block";s:8:"em_area3";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="11">
+      <instance_id><![CDATA[11]]></instance_id>
+      <title><![CDATA[EM0121 - Footer - Payment]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"13";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:2:"11";s:5:"group";s:9:"all_pages";s:5:"block";s:16:"bottom.container";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="12">
+      <instance_id><![CDATA[12]]></instance_id>
+      <title><![CDATA[EM0121 - Area 4 - Footer - Brands]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"14";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:20:"footer-brands-slider";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:0:{}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="13">
+      <instance_id><![CDATA[13]]></instance_id>
+      <title><![CDATA[EM0121 - Area 4 - Footer - Brands Slider]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:10:{s:8:"instance";s:2:"12";s:9:"direction";s:1:"0";s:9:"container";s:24:"#footer-brands-slider ul";s:12:"slider_width";s:0:"";s:13:"slider_height";s:0:"";s:12:"auto_sliding";s:1:"0";s:16:"slider_unique_id";s:0:"";s:8:"circular";s:1:"1";s:15:"items_per_slide";s:1:"1";s:9:"css_class";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[1]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:2:"12";s:5:"group";s:9:"all_pages";s:5:"block";s:8:"em_area4";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[sliderwidget/slide]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="14">
+      <instance_id><![CDATA[14]]></instance_id>
+      <title><![CDATA[EM0121 - Area 5 - Footer - Link]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"15";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[1]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:2:"13";s:5:"group";s:9:"all_pages";s:5:"block";s:8:"em_area5";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="15">
+      <instance_id><![CDATA[15]]></instance_id>
+      <title><![CDATA[EM0121 - Area Main - Best Seller Products]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:24:{s:12:"new_category";a:1:{i:0;s:1:"3";}s:11:"limit_count";s:3:"100";s:12:"column_count";s:0:"";s:12:"custom_class";s:36:"widget-slider-home bestseller_slider";s:14:"frontend_title";s:12:"Best sellers";s:10:"item_class";s:0:"";s:20:"frontend_description";s:0:"";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"220";s:16:"thumbnail_height";s:3:"280";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:9:"thumbnail";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:4:"true";s:10:"show_addto";s:4:"true";s:10:"show_label";s:4:"true";s:15:"choose_template";s:44:"em_bestseller_products/bestseller_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:0:{}]]></page_groups>
+      <instance_type><![CDATA[bestsellerproducts/list]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="27">
+      <instance_id><![CDATA[27]]></instance_id>
+      <title><![CDATA[EM0121 - Left - Acount Protected]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"17";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:2:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"32";s:5:"group";s:5:"pages";s:5:"block";s:4:"left";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:22:"customer_account_login";s:8:"template";s:0:"";}}i:1;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"57";s:5:"group";s:5:"pages";s:5:"block";s:4:"left";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"contacts_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="30">
+      <instance_id><![CDATA[30]]></instance_id>
+      <title><![CDATA[EM0121 - Product Collateral Sample 1]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"19";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:13:"Custom Tabs 1";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"35";s:5:"group";s:12:"all_products";s:5:"block";s:33:"product.info.additonal_collateral";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="31">
+      <instance_id><![CDATA[31]]></instance_id>
+      <title><![CDATA[EM0121 - Product Collateral Sample 2]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"19";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:13:"Custom Tabs N";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"36";s:5:"group";s:12:"all_products";s:5:"block";s:33:"product.info.additonal_collateral";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="32">
+      <instance_id><![CDATA[32]]></instance_id>
+      <title><![CDATA[EM0121 - Area 07- Sample Block]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"20";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"37";s:5:"group";s:12:"all_products";s:5:"block";s:8:"em_area7";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="33">
+      <instance_id><![CDATA[33]]></instance_id>
+      <title><![CDATA[EM0121 - Area 06 - Sample Block]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"21";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"38";s:5:"group";s:12:"all_products";s:5:"block";s:8:"em_area6";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="34">
+      <instance_id><![CDATA[34]]></instance_id>
+      <title><![CDATA[EM0121 - Sample Block - Alert Url]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"22";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"39";s:5:"group";s:12:"all_products";s:5:"block";s:10:"alert.urls";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="35">
+      <instance_id><![CDATA[35]]></instance_id>
+      <title><![CDATA[EM0121 - Sample Block - Extra Hint ]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"23";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"40";s:5:"group";s:12:"all_products";s:5:"block";s:22:"product.info.extrahint";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="37">
+      <instance_id><![CDATA[37]]></instance_id>
+      <title><![CDATA[EM0121 - Area Main - Best Seller Products Slider]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:10:{s:8:"instance";s:2:"15";s:9:"direction";s:1:"0";s:9:"container";s:35:".bestseller_slider ul.products-grid";s:12:"slider_width";s:0:"";s:13:"slider_height";s:0:"";s:12:"auto_sliding";s:1:"0";s:16:"slider_unique_id";s:0:"";s:8:"circular";s:1:"0";s:15:"items_per_slide";s:1:"1";s:9:"css_class";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[3]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"52";s:5:"group";s:5:"pages";s:5:"block";s:7:"content";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[sliderwidget/slide]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="43">
+      <instance_id><![CDATA[43]]></instance_id>
+      <title><![CDATA[EM0121 - Header Top Ads]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"24";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:2:"43";s:5:"group";s:9:"all_pages";s:5:"block";s:16:"em_header_top_ad";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="44">
+      <instance_id><![CDATA[44]]></instance_id>
+      <title><![CDATA[EM0121 - Area Navigation - Horizontal Menu]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:1:{s:4:"menu";s:1:"6";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:2:"59";s:5:"group";s:9:"all_pages";s:5:"block";s:15:"em0121.top.menu";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[megamenupro/megamenupro]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="46">
+      <instance_id><![CDATA[46]]></instance_id>
+      <title><![CDATA[EM0121 - Area Main - Featured Product Slider]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:10:{s:8:"instance";s:1:"3";s:9:"direction";s:1:"0";s:9:"container";s:38:".featured_tab_slider  ul.products-grid";s:12:"slider_width";s:0:"";s:13:"slider_height";s:0:"";s:12:"auto_sliding";s:1:"0";s:16:"slider_unique_id";s:0:"";s:8:"circular";s:1:"0";s:15:"items_per_slide";s:1:"1";s:9:"css_class";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:0:{}]]></page_groups>
+      <instance_type><![CDATA[sliderwidget/slide]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="47">
+      <instance_id><![CDATA[47]]></instance_id>
+      <title><![CDATA[EM0121 - Area Main - New Products]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:24:{s:11:"limit_count";s:3:"100";s:12:"column_count";s:0:"";s:12:"custom_class";s:30:"widget-tab-home new_tab_slider";s:8:"order_by";s:8:"name asc";s:14:"frontend_title";s:0:"";s:10:"item_class";s:0:"";s:20:"frontend_description";s:0:"";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"220";s:16:"thumbnail_height";s:3:"280";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:0:"";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:4:"true";s:10:"show_addto";s:4:"true";s:10:"show_label";s:4:"true";s:15:"choose_template";s:30:"em_new_products/new_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:0:{}]]></page_groups>
+      <instance_type><![CDATA[newproducts/list]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="48">
+      <instance_id><![CDATA[48]]></instance_id>
+      <title><![CDATA[EM0121 - Area Main - New Products Slider]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:10:{s:8:"instance";s:2:"47";s:9:"direction";s:1:"0";s:9:"container";s:32:".new_tab_slider ul.products-grid";s:12:"slider_width";s:0:"";s:13:"slider_height";s:0:"";s:12:"auto_sliding";s:1:"0";s:16:"slider_unique_id";s:0:"";s:8:"circular";s:1:"0";s:15:"items_per_slide";s:1:"1";s:9:"css_class";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:0:{}]]></page_groups>
+      <instance_type><![CDATA[sliderwidget/slide]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+	<widget id="51">
+      <instance_id><![CDATA[51]]></instance_id>
+      <title><![CDATA[EM0121 - Area Main - Special Products]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:25:{s:8:"order_by";s:8:"name asc";s:15:"featured_choose";s:7:"em_deal";s:11:"limit_count";s:3:"100";s:12:"column_count";s:0:"";s:12:"custom_class";s:29:"widget-slider-home hot_slider";s:14:"frontend_title";s:0:"";s:10:"item_class";s:0:"";s:20:"frontend_description";s:0:"";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"220";s:16:"thumbnail_height";s:3:"280";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:0:"";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:4:"true";s:10:"show_addto";s:4:"true";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:0:{}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="52">
+      <instance_id><![CDATA[52]]></instance_id>
+      <title><![CDATA[EM0121 - Area Main - Special Products Slider]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:10:{s:8:"instance";s:2:"52";s:9:"direction";s:1:"0";s:9:"container";s:28:".hot_slider ul.products-grid";s:12:"slider_width";s:0:"";s:13:"slider_height";s:0:"";s:12:"auto_sliding";s:1:"0";s:16:"slider_unique_id";s:0:"";s:8:"circular";s:1:"0";s:15:"items_per_slide";s:1:"1";s:9:"css_class";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:0:{}]]></page_groups>
+      <instance_type><![CDATA[sliderwidget/slide]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="53">
+      <instance_id><![CDATA[53]]></instance_id>
+      <title><![CDATA[EM0121 - Area Main - Tabs Products]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:35:{s:5:"title";s:0:"";s:17:"short_description";s:0:"";s:12:"custom_class";s:0:"";s:14:"tabs_unique_id";s:0:"";s:7:"title_1";a:4:{i:0;s:8:"Featured";i:1;s:0:"";i:3;s:0:"";i:2;s:0:"";}s:7:"block_1";s:0:"";s:10:"instance_1";s:2:"46";s:7:"title_2";a:4:{i:0;s:12:"New Arrivals";i:1;s:0:"";i:3;s:0:"";i:2;s:0:"";}s:7:"block_2";s:0:"";s:10:"instance_2";s:2:"48";s:7:"title_3";a:4:{i:0;s:8:"Specials";i:1;s:0:"";i:3;s:0:"";i:2;s:0:"";}s:7:"block_3";s:0:"";s:10:"instance_3";s:2:"52";s:7:"title_4";a:4:{i:0;s:0:"";i:1;s:0:"";i:3;s:0:"";i:2;s:0:"";}s:7:"block_4";s:0:"";s:10:"instance_4";s:0:"";s:7:"title_5";a:4:{i:0;s:0:"";i:1;s:0:"";i:3;s:0:"";i:2;s:0:"";}s:7:"block_5";s:0:"";s:10:"instance_5";s:0:"";s:7:"title_6";a:4:{i:0;s:0:"";i:1;s:0:"";i:3;s:0:"";i:2;s:0:"";}s:7:"block_6";s:0:"";s:10:"instance_6";s:0:"";s:7:"title_7";a:4:{i:0;s:0:"";i:1;s:0:"";i:3;s:0:"";i:2;s:0:"";}s:7:"block_7";s:0:"";s:10:"instance_7";s:0:"";s:7:"title_8";a:4:{i:0;s:0:"";i:1;s:0:"";i:3;s:0:"";i:2;s:0:"";}s:7:"block_8";s:0:"";s:10:"instance_8";s:0:"";s:7:"title_9";a:4:{i:0;s:0:"";i:1;s:0:"";i:3;s:0:"";i:2;s:0:"";}s:7:"block_9";s:0:"";s:10:"instance_9";s:0:"";s:8:"title_10";a:4:{i:0;s:0:"";i:1;s:0:"";i:3;s:0:"";i:2;s:0:"";}s:8:"block_10";s:0:"";s:11:"instance_10";s:0:"";s:8:"instance";s:2:"51";}]]></widget_parameters>
+      <sort_order><![CDATA[1]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:2:"47";s:5:"group";s:5:"pages";s:5:"block";s:7:"content";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:18:"emtabs/group.phtml";}}}]]></page_groups>
+      <instance_type><![CDATA[tabs/group]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="60">
+      <instance_id><![CDATA[60]]></instance_id>
+      <title><![CDATA[EM0121 - Area 08 - Sample Block]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"28";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"60";s:5:"group";s:12:"all_products";s:5:"block";s:8:"em_area8";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="61">
+      <instance_id><![CDATA[61]]></instance_id>
+      <title><![CDATA[EM0121 - Area 09 - Sample Block]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"29";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"61";s:5:"group";s:12:"all_products";s:5:"block";s:8:"em_area9";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="62">
+      <instance_id><![CDATA[62]]></instance_id>
+      <title><![CDATA[EM0121 - Area 11 - Sample Block]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"30";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"62";s:5:"group";s:12:"all_products";s:5:"block";s:9:"em_area11";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="63">
+      <instance_id><![CDATA[63]]></instance_id>
+      <title><![CDATA[EM0121 - Area 12 - Sample Block]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"31";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:12:"all_products";s:12:"all_products";a:6:{s:7:"page_id";s:2:"63";s:5:"group";s:12:"all_products";s:5:"block";s:9:"em_area12";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:20:"catalog_product_view";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="108">
+      <instance_id><![CDATA[108]]></instance_id>
+      <title><![CDATA[EM0121 - Area Main - Banner]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"46";s:12:"custom_class";s:18:"main-banner-widget";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[2]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:3:"102";s:5:"group";s:5:"pages";s:5:"block";s:7:"content";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="109">
+      <instance_id><![CDATA[109]]></instance_id>
+      <title><![CDATA[EM0121 - Area 13 - For Women]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:26:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:3:{i:0;s:2:"10";i:1;s:2:"22";i:2;s:2:"23";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:2:"20";s:12:"column_count";s:0:"";s:12:"custom_class";s:14:"forwomen-block";s:14:"frontend_title";s:9:"For Women";s:10:"item_class";s:0:"";s:20:"frontend_description";s:0:"";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"275";s:16:"thumbnail_height";s:3:"350";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:0:"";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:4:"true";s:10:"show_addto";s:4:"true";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:0:{}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="110">
+      <instance_id><![CDATA[110]]></instance_id>
+      <title><![CDATA[EM0121 - Area 13 - For Women Slider]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:10:{s:8:"instance";s:3:"109";s:9:"direction";s:1:"0";s:9:"container";s:32:".forwomen-block ul.products-grid";s:12:"slider_width";s:0:"";s:13:"slider_height";s:0:"";s:12:"auto_sliding";s:1:"0";s:16:"slider_unique_id";s:0:"";s:8:"circular";s:1:"0";s:15:"items_per_slide";s:1:"1";s:9:"css_class";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:3:"103";s:5:"group";s:5:"pages";s:5:"block";s:9:"em_area13";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[sliderwidget/slide]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="111">
+      <instance_id><![CDATA[111]]></instance_id>
+      <title><![CDATA[EM0121 - Area 14 - For Men]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:26:{s:8:"order_by";s:8:"name asc";s:12:"new_category";a:1:{i:0;s:1:"4";}s:15:"featured_choose";s:11:"em_featured";s:11:"limit_count";s:2:"20";s:12:"column_count";s:0:"";s:12:"custom_class";s:12:"formen-block";s:14:"frontend_title";s:7:"For Men";s:10:"item_class";s:0:"";s:20:"frontend_description";s:0:"";s:10:"item_width";s:0:"";s:11:"item_height";s:0:"";s:12:"item_spacing";s:0:"";s:15:"thumbnail_width";s:3:"275";s:16:"thumbnail_height";s:3:"350";s:17:"show_product_name";s:4:"true";s:14:"show_thumbnail";s:4:"true";s:7:"alt_img";s:0:"";s:16:"show_description";s:5:"false";s:10:"show_price";s:4:"true";s:12:"show_reviews";s:4:"true";s:14:"show_addtocart";s:4:"true";s:10:"show_addto";s:4:"true";s:10:"show_label";s:4:"true";s:15:"choose_template";s:40:"em_featured_products/featured_grid.phtml";s:12:"custom_theme";s:0:"";s:14:"cache_lifetime";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:0:{}]]></page_groups>
+      <instance_type><![CDATA[dynamicproducts/dynamicproducts]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="112">
+      <instance_id><![CDATA[112]]></instance_id>
+      <title><![CDATA[EM0121 - Area 14 - For Men Slider]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:10:{s:8:"instance";s:3:"111";s:9:"direction";s:1:"0";s:9:"container";s:30:".formen-block ul.products-grid";s:12:"slider_width";s:0:"";s:13:"slider_height";s:0:"";s:12:"auto_sliding";s:1:"0";s:16:"slider_unique_id";s:0:"";s:8:"circular";s:1:"0";s:15:"items_per_slide";s:1:"1";s:9:"css_class";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:5:"pages";s:5:"pages";a:6:{s:7:"page_id";s:3:"104";s:5:"group";s:5:"pages";s:5:"block";s:9:"em_area14";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:15:"cms_index_index";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[sliderwidget/slide]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="113">
+      <instance_id><![CDATA[113]]></instance_id>
+      <title><![CDATA[EM0121 - Area 15 - Extra Bottom Blocks]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"47";s:12:"custom_class";s:19:"extra-bottom-blocks";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:3:"105";s:5:"group";s:9:"all_pages";s:5:"block";s:9:"em_area15";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+    <widget id="114">
+      <instance_id><![CDATA[114]]></instance_id>
+      <title><![CDATA[EM0121 - Area 16 - Newslettler]]></title>
+      <store_ids><![CDATA[a:1:{i:0;i:0;}]]></store_ids>
+      <widget_parameters><![CDATA[a:5:{s:8:"block_id";s:2:"48";s:12:"custom_class";s:0:"";s:25:"custom_html_wrapper_class";s:0:"";s:22:"custom_html_wrapper_id";s:0:"";s:11:"block_title";s:0:"";}]]></widget_parameters>
+      <sort_order><![CDATA[0]]></sort_order>
+      <page_groups><![CDATA[a:1:{i:0;a:2:{s:10:"page_group";s:9:"all_pages";s:9:"all_pages";a:6:{s:7:"page_id";s:3:"106";s:5:"group";s:9:"all_pages";s:5:"block";s:9:"em_area16";s:9:"for_value";s:3:"all";s:13:"layout_handle";s:7:"default";s:8:"template";s:0:"";}}}]]></page_groups>
+      <instance_type><![CDATA[cmswidget/widget_block]]></instance_type>
+      <package_theme><![CDATA[default/em0121]]></package_theme>
+    </widget>
+  </widget_instance>
+</sample_data>
