@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MagentoExam_ProductDiscountBanner>
+            <version>0.1.0</version>
+        </MagentoExam_ProductDiscountBanner>
+    </modules>
+    <global>
+        <helpers>
+            <productdiscounthelper>
+                <class>MagentoExam_ProductDiscountBanner_Helper</class>
+            </productdiscounthelper>
+        </helpers>
+    </global>
+</config>

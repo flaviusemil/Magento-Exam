@@ -1,0 +1,8 @@
+<config>
+	<modules>
+		<MagentoExam_ProductDiscountBanner>
+			<active>true</active>
+			<codePool>local</codePool>
+		</MagentoExam_ProductDiscountBanner>
+	</modules>
+</config>

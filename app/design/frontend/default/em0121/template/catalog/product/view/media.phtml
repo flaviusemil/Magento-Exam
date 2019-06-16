@@ -35,6 +35,10 @@
     $_helper = $this->helper('catalog/output');
     $setting = Mage::helper('em0121settings');
     $viewmode = $setting->getImageProduct_Viewmode();
+	$initialPrice = $_product -> getPrice();
+	$finalPrice = $_product -> getFinalPrice();
+	$showDiscountBanner = ($_product -> getShowDiscountBanner());
+	$discount = Mage::helper('productdiscounthelper') -> calculateDiscount($initialPrice, $finalPrice);
 ?>
 <?php if ($_product->getImage() != 'no_selection' && $_product->getImage()): ?>
 <div class="media-left">
@@ -54,6 +58,9 @@
 			$h = $ratio * $_img->getOriginalHeight();
 		?>
 		<a class="cloud-zoom" id="image_zoom" rel="<?php echo $config ?>" href="<?php echo $_img ?>" >
+			<?php if ($showDiscountBanner): ?>
+				<span class="discount-banner"><?php echo $discount; ?></span>
+			<?php endif; ?>
             <img src="<?php echo $_img->resize($w, $h); ?>" alt='' title="<?php echo $this->escapeHtml($this->getImageLabel());?>" />
 		</a>
 		<a id="zoom-btn" rel="lightbox[em_lightbox]" href="<?php echo $this->helper('catalog/image')->init($_product, 'image') ?>" title="<?php echo $this->escapeHtml($this->getImageLabel());?>">Zoom</a>

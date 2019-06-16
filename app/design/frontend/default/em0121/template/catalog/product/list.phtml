@@ -46,6 +46,12 @@
     <?php $_iterator = 0; ?>
     <ol class="products-list" id="products-list">
     <?php foreach ($_productCollection as $_product): ?>
+        <?php
+	        $initialPrice = $_product -> getPrice();
+	        $finalPrice = $_product -> getFinalPrice();
+	        $showDiscountBanner = ($_product -> getShowDiscountBanner());
+	        $discount = Mage::helper('productdiscounthelper') -> calculateDiscount($initialPrice, $finalPrice); ?>
+
         <li class="item<?php if( ++$_iterator == sizeof($_productCollection) ): ?> last<?php endif; ?>" <?php if($setting->getProductsList_Gutter()): ?>style="margin-bottom: <?php echo $setting->getProductsList_Gutter() ?>px"<?php endif; ?>>
             <!-- Show Thumbnail -->
             <?php if ($setting->getProductsList_ShowThumbnail()): ?>
@@ -55,6 +61,9 @@
                         <!--show label product - label extension is required-->
                         <?php Mage::helper('productlabels')->display($_product);?>
                     <?php endif ?>
+                    <?php if ($showDiscountBanner): ?>
+		                <span class="discount-banner"><?php echo $discount; ?></span>
+                    <?php endif; ?>
                     <img 
         				src="<?php echo $this->helper('catalog/image')->init($_product, 'small_image')->resize($setting->getProductsList_Width(190), $setting->getProductsList_Height(240)); ?>" 
         				<?php if ($alt_img = $setting->getProductsList_AltImg()): ?> 
@@ -141,7 +150,13 @@
     <?php $_columnCount = $this->getColumnCount(); ?>
 	<?php if ($_collectionSize > 0): ?>
 	<ul class="products-grid category-products-grid">
-    <?php $i=0; foreach ($_productCollection as $_product): ?>
+		    <?php $i=0; foreach ($_productCollection as $_product): ?>
+		        <?php
+		        $initialPrice = $_product -> getPrice();
+		        $finalPrice = $_product -> getFinalPrice();
+		        $showDiscountBanner = ($_product -> getShowDiscountBanner());
+		        $discount = Mage::helper('productdiscounthelper') -> calculateDiscount($initialPrice, $finalPrice); ?>
+
             <li class="item<?php if(($i-1)%$_columnCount==0): ?> first<?php elseif($i%$_columnCount==0): ?> last<?php endif; ?>" style="width: <?php echo $setting->getProductsGrid_Width(200) ?>px; margin-right: <?php echo $setting->getProductsGrid_Gutter(23) ?>px;">
                 <div class="product-item">
                     <!-- Show Thumbnail -->
@@ -151,6 +166,9 @@
                                 <!--show label product - label extension is required-->
                                 <?php Mage::helper('productlabels')->display($_product);?>
                             <?php endif;?>
+                            <?php if ($showDiscountBanner): ?>
+		                        <span class="discount-banner"><?php echo $discount; ?></span>
+                            <?php endif; ?>
                             <img 
             				src="<?php echo $this->helper('catalog/image')->init($_product, 'small_image')->resize($setting->getProductsGrid_Imagewidth(200), $setting->getProductsGrid_Imageheight(255)); ?>" 
             				<?php if ($alt_img = $setting->getProductsGrid_AltImg()): ?> 
